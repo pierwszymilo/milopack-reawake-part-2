@@ -1,0 +1,21 @@
+{
+	title: "Helium Cell",
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "2921a844",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "helium",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

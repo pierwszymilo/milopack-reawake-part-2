@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: 2.5d,
+	dependencies: [
+		"743650bc",
+		"74672be0"
+	],
+	tasks: [{
+		uid: "6d54a8ec",
+		type: "item",
+		items: [{
+			item: "rftools:elevator_button_module"
+		}]
+	}]
+}

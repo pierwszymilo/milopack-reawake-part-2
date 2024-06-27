@@ -1,0 +1,159 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	description: "I don't even know, how many years have passed...",
+	text: [
+		"Everything you had...",
+		"Everything there even was...",
+		"It has been destroyed. You were the one scientist who was sent by your team to recreate the humanity.",
+		"Now you wake up and realize you don't even have any proper equipment. For some reason you have a primitive stone hatchet,materials for campfire, a weird book and some food with yourself. ",
+		"It's still better than nothing, but the work you have to do is horrendously hard..."
+	],
+	tasks: [{
+		uid: "1bb61e9b",
+		type: "checkmark",
+		title: "Wakey wakey!",
+		icon: "futuremc:campfire"
+	}],
+	rewards: [{
+		uid: "f28ea1ef",
+		type: "item",
+		item: "futuremc:campfire"
+	},
+	{
+		uid: "1f744038",
+		type: "item",
+		item: "minecraft:apple",
+		count: 5
+	},
+	{
+		uid: "0d02b215",
+		type: "item",
+		item: {
+			id: "tconstruct:hatchet",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"wood",
+						"stone",
+						"wood"
+					],
+					Modifiers: [
+						"leveling_mod"
+					]
+				},
+				Stats: {
+					Durability: 128,
+					HarvestLevel: 1,
+					Attack: 3.5f,
+					MiningSpeed: 4.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				StatsOriginal: {
+					Durability: 160,
+					HarvestLevel: 1,
+					Attack: 3.5f,
+					MiningSpeed: 4.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"weapon",
+						"aoe"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "cheapskate",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "leveling_mod",
+					color: 0,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"cheapskate",
+					"leveling_mod"
+				],
+				leveling: {
+					level: 0,
+					exp: 0,
+					check: 0b
+				},
+				display: {
+					Name: "Primitive stone hatchet"
+				}
+			}
+		}
+	},
+	{
+		uid: "8d244392",
+		type: "item",
+		item: {
+			id: "akashictome:tome",
+			tag: {
+				"akashictome:data": {
+					tconstruct: {
+						id: "tconstruct:book",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "tconstruct"
+						}
+					},
+					conarm: {
+						id: "conarm:book",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "conarm"
+						}
+					},
+					cfm: {
+						id: "cfm:item_recipe_book",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "cfm"
+						}
+					},
+					buildcraftlib: {
+						id: "buildcraftlib:guide",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "buildcraftlib"
+						}
+					},
+					actuallyadditions: {
+						id: "actuallyadditions:item_booklet",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "actuallyadditions"
+						}
+					},
+					rftools: {
+						id: "rftools:rftools_manual",
+						Count: 1b,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "rftools"
+						}
+					}
+				}
+			}
+		}
+	}]
+}

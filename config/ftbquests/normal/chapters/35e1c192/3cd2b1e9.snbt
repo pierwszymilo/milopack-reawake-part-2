@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 3.5d,
+	dependencies: [
+		"cc20523e"
+	],
+	tasks: [{
+		uid: "d1e723da",
+		type: "item",
+		items: [{
+			item: "rftools:fluidplus_module"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 7.0d,
+	shape: "gear",
+	dependencies: [
+		"a0d13955"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "2fc3f22e",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 22"
+		}]
+	}]
+}

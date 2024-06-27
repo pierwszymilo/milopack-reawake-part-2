@@ -1,0 +1,40 @@
+{
+	title: "Damn, no patina?",
+	x: -4.0d,
+	y: 5.5d,
+	description: "You just realized, that the copper ores you have mined had no patina on themselves.",
+	text: [
+		"[",
+		"Patina is a thin layer that variously forms on the surface of copper, brass, bronze, and similar metals and metal alloys (tarnish produced by oxidation or other chemical processes), or certain stones and wooden furniture (sheen produced by age, wear, and polishing), or any similar acquired change of a surface through age and exposure. ",
+		"]",
+		"~ Wikipedia"
+	],
+	dependencies: [
+		"beaffd87"
+	],
+	tasks: [{
+		uid: "d2c570e5",
+		type: "item",
+		icon: "ic2:dust 1 4",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustCopper"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustCopper"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d3ce516f",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 8
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 11.5d,
+	dependencies: [
+		"acc6394c"
+	],
+	tasks: [{
+		uid: "8a2720a8",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satellitepowersource 1 1"
+		}]
+	}]
+}

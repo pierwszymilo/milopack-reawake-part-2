@@ -1,0 +1,37 @@
+{
+	title: "Infernal Furnace",
+	icon: "minecraft:nether_brick",
+	x: 1.0d,
+	y: 11.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "27bfd24f",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_brick"
+		}],
+		count: 12L
+	},
+	{
+		uid: "d893ed3d",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 12L
+	},
+	{
+		uid: "1287e02b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}]
+	},
+	{
+		uid: "cdc916ea",
+		type: "fluid",
+		fluid: "lava"
+	}]
+}

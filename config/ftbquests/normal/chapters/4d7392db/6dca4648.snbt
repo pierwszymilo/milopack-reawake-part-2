@@ -1,0 +1,24 @@
+{
+	title: "Getting Praecantatio",
+	icon: {
+		id: "thaumcraft:crystal_essence",
+		tag: {
+			Aspects: [{
+				key: "praecantatio",
+				amount: 1
+			}]
+		}
+	},
+	x: -1.5d,
+	y: 12.5d,
+	dependencies: [
+		"38017db9"
+	],
+	tasks: [{
+		uid: "7a402573",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}]
+}

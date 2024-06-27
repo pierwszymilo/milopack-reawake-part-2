@@ -1,0 +1,21 @@
+{
+	title: "Hand-Made",
+	x: -1.0d,
+	y: 2.0d,
+	description: "Would you look at that? Something not made in China?",
+	text: [
+		"It's a bit funny having to make some own tools by hand,but you'll get used to that.",
+		"",
+		"The good part is you can upgrade them dramatically,the bad part - sometimes it's a bit tricky."
+	],
+	dependencies: [
+		"730f17d6"
+	],
+	tasks: [{
+		uid: "8c8f5317",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}]
+}

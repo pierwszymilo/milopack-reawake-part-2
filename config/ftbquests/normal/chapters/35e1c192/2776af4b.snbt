@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 10.0d,
+	dependencies: [
+		"3f6094cd",
+		"1ca4939a"
+	],
+	tasks: [{
+		uid: "5c3c7a16",
+		type: "item",
+		items: [{
+			item: "enderio:block_weather_obelisk"
+		}]
+	}]
+}

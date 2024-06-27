@@ -1,0 +1,20 @@
+{
+	title: "*boing*",
+	x: 4.0d,
+	y: 1.0d,
+	description: "Fall damage is no longer scary.",
+	text: [
+		"As simple as that,use some slimes",
+		"(...or blood)",
+		" to make yourself a nice,sticky yet bouncy pair of boots. Perfect for a bumpy road!"
+	],
+	tasks: [{
+		uid: "dea3d396",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_boots 1 1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

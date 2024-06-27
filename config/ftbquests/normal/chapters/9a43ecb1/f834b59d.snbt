@@ -1,0 +1,14 @@
+{
+	x: 15.5d,
+	y: 8.0d,
+	dependencies: [
+		"5a615308"
+	],
+	tasks: [{
+		uid: "c38f7444",
+		type: "item",
+		items: [{
+			item: "bigreactors:ingotblutonium"
+		}]
+	}]
+}

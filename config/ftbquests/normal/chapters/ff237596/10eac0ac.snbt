@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"2f202fb2",
+		"6e194453"
+	],
+	tasks: [{
+		uid: "1fffec11",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_tungsten"
+		}]
+	}]
+}

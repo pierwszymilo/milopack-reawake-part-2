@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "038d6d84",
+		type: "item",
+		items: [{
+			item: "gregtechmod:diamond_grinder"
+		}],
+		count: 3L
+	}]
+}

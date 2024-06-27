@@ -1,0 +1,11 @@
+{
+	x: -12.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "face035d",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	}]
+}

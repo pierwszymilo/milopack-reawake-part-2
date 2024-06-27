@@ -1,0 +1,25 @@
+{
+	title: "Plasma Cell",
+	x: 6.0d,
+	y: 8.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"2eb2b223",
+		"9078b7b6"
+	],
+	tasks: [{
+		uid: "0fbf01ab",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "helium_plasma",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

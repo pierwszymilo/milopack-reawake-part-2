@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 8.0d,
+	shape: "gear",
+	dependencies: [
+		"ce63533f",
+		"4c93557f"
+	],
+	tasks: [{
+		uid: "41a0980d",
+		type: "item",
+		items: [{
+			item: "gregtechmod:energy_flow_circuit"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: 5.0d,
+	dependencies: [
+		"b039774f"
+	],
+	tasks: [{
+		uid: "505bd394",
+		type: "item",
+		items: [{
+			item: "thaumcraft:bottle_taint"
+		}]
+	}]
+}

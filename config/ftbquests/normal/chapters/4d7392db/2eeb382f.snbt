@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: 11.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "61a0e2d0",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "gelum",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

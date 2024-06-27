@@ -1,0 +1,85 @@
+{
+	icon: "advancedrocketry:railgun",
+	x: 23.5d,
+	y: 10.0d,
+	dependencies: [
+		"5ba92fc1"
+	],
+	tasks: [{
+		uid: "a0eef100",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:railgun"
+		}]
+	},
+	{
+		uid: "23cd00bc",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_slab"
+		}],
+		count: 25L
+	},
+	{
+		uid: "a76ccc7e",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_steel"
+		}],
+		count: 8L
+	},
+	{
+		uid: "da377f53",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 1"
+		}]
+	},
+	{
+		uid: "7852474b",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}],
+		count: 3L
+	},
+	{
+		uid: "8e76bd40",
+		type: "item",
+		items: [{
+			item: "libvulpes:advstructuremachine"
+		}],
+		count: 28L
+	},
+	{
+		uid: "a9b4281b",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_titanium"
+		}],
+		count: 5L
+	},
+	{
+		uid: "82ec6a09",
+		type: "item",
+		items: [{
+			item: "libvulpes:coil0 1 4"
+		}],
+		count: 40L
+	},
+	{
+		uid: "c39c8ac4",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}],
+		count: 10L
+	},
+	{
+		uid: "8175339a",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}]
+	}]
+}

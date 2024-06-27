@@ -1,0 +1,61 @@
+{
+	icon: "advancedrocketry:crystallizer",
+	x: 2.0d,
+	y: 7.0d,
+	shape: "gear",
+	dependencies: [
+		"73e1d8c7",
+		"3868427f"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "26abdda0",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:crystallizer"
+		}]
+	},
+	{
+		uid: "4102db4c",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}]
+	},
+	{
+		uid: "4ef04276",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}]
+	},
+	{
+		uid: "8aa0f367",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 1"
+		}]
+	},
+	{
+		uid: "75c94f63",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 2"
+		}]
+	},
+	{
+		uid: "3ade1876",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 3"
+		}]
+	},
+	{
+		uid: "294966d1",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:iquartzcrucible"
+		}],
+		count: 6L
+	}]
+}

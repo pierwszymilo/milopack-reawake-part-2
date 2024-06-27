@@ -1,0 +1,19 @@
+{
+	title: "Precise tinkering",
+	x: 2.0d,
+	y: -1.5d,
+	description: "Time to think about new tools...",
+	text: [
+		"Trite but probabbly the best way to start"
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "1da7aad3",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern"
+		}]
+	}]
+}

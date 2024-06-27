@@ -1,0 +1,18 @@
+{
+	x: -9.0d,
+	y: -13.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "a7488639",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	}],
+	rewards: [{
+		uid: "4e0418eb",
+		type: "item",
+		item: "buildcraftcore:marker_volume",
+		count: 3
+	}]
+}

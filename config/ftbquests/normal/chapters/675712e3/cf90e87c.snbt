@@ -1,0 +1,30 @@
+{
+	title: "Boiler Machine",
+	icon: "minecraft:stone_slab",
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		"Requirements:",
+		"- 24 Stone Slabs",
+		"- 12 Blocks of Iron"
+	],
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "93303f56",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 12L
+	},
+	{
+		uid: "6c8879c1",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_slab"
+		}],
+		count: 24L
+	}]
+}

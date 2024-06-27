@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 16.0d,
+	dependencies: [
+		"f904778c"
+	],
+	tasks: [{
+		uid: "830bcc64",
+		type: "item",
+		items: [{
+			item: "thaumcraft:matrix_cost"
+		}]
+	}]
+}

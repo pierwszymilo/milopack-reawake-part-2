@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	shape: "gear",
+	dependencies: [
+		"531314e7",
+		"ae155728"
+	],
+	tasks: [{
+		uid: "2eb0bc76",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rail_part",
+			tag: {}
+		}]
+	}]
+}

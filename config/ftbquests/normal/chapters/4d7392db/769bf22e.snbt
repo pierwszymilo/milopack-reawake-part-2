@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 29.5d,
+	dependencies: [
+		"476820ea"
+	],
+	tasks: [{
+		uid: "35943ff7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_robe_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

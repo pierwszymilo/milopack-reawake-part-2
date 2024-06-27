@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 8.5d,
+	dependencies: [
+		"42139e20",
+		"a2e240bd"
+	],
+	tasks: [{
+		uid: "b705c1a4",
+		type: "item",
+		items: [{
+			item: "libvulpes:productboule 1 3"
+		}]
+	}]
+}

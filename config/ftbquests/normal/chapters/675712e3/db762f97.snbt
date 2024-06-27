@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "abc23d2e",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_manual",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

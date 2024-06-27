@@ -1,0 +1,19 @@
+{
+	title: "Lava,my precious..",
+	x: 6.5d,
+	y: -1.0d,
+	description: "we NEED to get that metal HOT...REALLY HOT",
+	text: [
+		"That's why you need a lava tank,that'll allow for melting almost everything easily."
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "f954fd73",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	}]
+}

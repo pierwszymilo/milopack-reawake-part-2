@@ -1,0 +1,31 @@
+{
+	icon: "advancedrocketry:solararraypanel",
+	x: 22.5d,
+	y: 6.0d,
+	dependencies: [
+		"25f825eb"
+	],
+	tasks: [{
+		uid: "6582a8e8",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:solararray"
+		}]
+	},
+	{
+		uid: "3231fb14",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepoweroutput"
+		}],
+		count: 2L
+	},
+	{
+		uid: "280d410b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:solararraypanel"
+		}],
+		count: 64L
+	}]
+}

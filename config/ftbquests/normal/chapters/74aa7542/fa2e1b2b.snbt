@@ -1,0 +1,25 @@
+{
+	title: "Mixing 'em!",
+	x: -4.0d,
+	y: 0.0d,
+	description: "The mass you made from your gatherings may be useful as heatproof base for bricks",
+	text: [
+		"The best thing to do right now is to put on the big boy pants and smelt a shit ton of this."
+	],
+	dependencies: [
+		"8c70e6d8"
+	],
+	tasks: [{
+		uid: "b0295787",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}]
+	}],
+	rewards: [{
+		uid: "28d2b215",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 32
+	}]
+}

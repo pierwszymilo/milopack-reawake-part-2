@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "79c0523a",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_tungsten"
+		}]
+	}]
+}

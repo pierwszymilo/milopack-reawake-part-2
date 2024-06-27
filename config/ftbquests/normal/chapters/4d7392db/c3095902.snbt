@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 4.5d,
+	dependencies: [
+		"e25b09c5"
+	],
+	tasks: [{
+		uid: "048d4fdc",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mind"
+		}]
+	}]
+}

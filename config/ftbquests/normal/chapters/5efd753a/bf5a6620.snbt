@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 2.0d,
+	shape: "gear",
+	dependencies: [
+		"a90d1ee5",
+		"d0e79c96",
+		"12a45f30",
+		"9a573c02"
+	],
+	tasks: [{
+		uid: "ab038df3",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:precisionassemblingmachine"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "9be76ac3",
+		type: "item",
+		items: [{
+			id: "ic2:neutron_reflector",
+			tag: {
+				advDmg: 0
+			}
+		}]
+	}]
+}

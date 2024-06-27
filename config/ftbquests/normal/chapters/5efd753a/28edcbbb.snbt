@@ -1,0 +1,14 @@
+{
+	x: 13.5d,
+	y: 6.0d,
+	dependencies: [
+		"e0d5ee0f"
+	],
+	tasks: [{
+		uid: "42faa4a5",
+		type: "item",
+		items: [{
+			item: "libvulpes:productsheet 1 6"
+		}]
+	}]
+}

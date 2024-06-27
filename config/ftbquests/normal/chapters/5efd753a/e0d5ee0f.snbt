@@ -1,0 +1,16 @@
+{
+	x: 13.5d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"26ad5992"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "d3c4f467",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rollingmachine"
+		}]
+	}]
+}

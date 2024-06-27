@@ -1,0 +1,36 @@
+{
+    "machine": "grand_roller",
+    "registryName": "rolling_kanthal",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:iron_ingot",
+            "amount": 3
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "gregtechmod:ingot_aluminium",
+            "amount": 3
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "gregtechmod:ingot_chrome",
+            "amount": 3
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "gregtechmod:coil_kanthal",
+            "amount": 3
+        }
+    ]
+}

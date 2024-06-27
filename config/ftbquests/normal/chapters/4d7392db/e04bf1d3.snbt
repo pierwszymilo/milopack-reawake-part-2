@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: 9.0d,
+	dependencies: [
+		"72f81783"
+	],
+	tasks: [{
+		uid: "81ebef38",
+		type: "item",
+		items: [{
+			item: "thaumcraft:grapple_gun_spool"
+		}]
+	}]
+}

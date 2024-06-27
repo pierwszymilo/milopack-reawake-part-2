@@ -1,0 +1,13 @@
+filename = 'UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar'
+name = 'Universal Mod Core'
+side = 'both'
+
+[download]
+hash = '6a6cd834fd1924e9baa4aec555ac0ce59fc36228'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3654955
+project-id = 371784

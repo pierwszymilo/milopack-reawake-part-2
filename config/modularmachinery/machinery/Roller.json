@@ -1,0 +1,96 @@
+{
+	"registryname": "grand_roller",
+    "localizedname": "Grand Rolling Machine",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tileitemoutputbus"},
+            "elements": [
+                "modularmachinery:blockoutputbus@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"minecraft:tileiteminputbus"},
+            "elements": [
+                "modularmachinery:blockinputbus@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "nbt": {"id":"minecraft:tileenergyinputhatch"},
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gregtechmod:block_reinforced_machine_casing@0"
+            ]
+        }
+    ]}

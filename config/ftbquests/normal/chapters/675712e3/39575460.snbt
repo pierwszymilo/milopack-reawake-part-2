@@ -1,0 +1,30 @@
+{
+	title: "Plate Machine",
+	icon: "minecraft:iron_block",
+	x: -3.0d,
+	y: 1.0d,
+	text: [
+		"Requirements:",
+		"- 90 Iron Bars",
+		"- 129 Blocks of Iron"
+	],
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "4be13b85",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "160ba17e",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}],
+		count: 64L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 16.5d,
+	y: 10.0d,
+	dependencies: [
+		"3497734c",
+		"dbe1a1be"
+	],
+	tasks: [{
+		uid: "f05a68a9",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:launchpad"
+		}],
+		count: 49L
+	},
+	{
+		uid: "a0bdfd34",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}],
+		count: 16L
+	}]
+}

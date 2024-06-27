@@ -1,0 +1,26 @@
+{
+	title: "Berylium Cell",
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"99acfd50",
+		"bc20c26d"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "bdd1b393",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "berylium",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

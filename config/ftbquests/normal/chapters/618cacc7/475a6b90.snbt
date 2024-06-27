@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"0ae78ddb",
+		"6e57f195"
+	],
+	tasks: [{
+		uid: "abdcab66",
+		type: "item",
+		items: [{
+			id: "ic2:drill",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

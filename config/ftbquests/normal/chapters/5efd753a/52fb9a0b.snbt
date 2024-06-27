@@ -1,0 +1,65 @@
+{
+	icon: "advancedrocketry:spacelaser",
+	x: 27.5d,
+	y: 5.0d,
+	shape: "gear",
+	dependencies: [
+		"dcf511da"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "fba6b9bb",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:spacelaser"
+		}]
+	},
+	{
+		uid: "6dea5d21",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}],
+		count: 13L
+	},
+	{
+		uid: "90ca2ffc",
+		type: "item",
+		items: [{
+			item: "libvulpes:advstructuremachine"
+		}],
+		count: 36L
+	},
+	{
+		uid: "80642a8f",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:blocklens"
+		}],
+		count: 14L
+	},
+	{
+		uid: "b23ccc6e",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:vacuumlaser"
+		}],
+		count: 48L
+	},
+	{
+		uid: "62eb93db",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}],
+		count: 8L
+	},
+	{
+		uid: "eaeff288",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 1"
+		}],
+		count: 2L
+	}]
+}

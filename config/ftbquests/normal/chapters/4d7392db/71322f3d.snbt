@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: 6.0d,
+	dependencies: [
+		"59dae8c8",
+		"f12bf859"
+	],
+	tasks: [{
+		uid: "f675b2f0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:scribing_tools"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

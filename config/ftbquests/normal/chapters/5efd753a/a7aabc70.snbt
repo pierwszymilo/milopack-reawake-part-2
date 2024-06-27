@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 10.0d,
+	shape: "gear",
+	dependencies: [
+		"1575fa47"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "f599c021",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rocketbuilder"
+		}]
+	}]
+}

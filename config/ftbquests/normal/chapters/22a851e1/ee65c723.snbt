@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: 2.5d,
+	description: "For mass production",
+	text: [
+		"If smeltery is good at doing its work, it might prospair well as a machine to produce not only metal parts but also blocks. "
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "c8d7a175",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	}]
+}

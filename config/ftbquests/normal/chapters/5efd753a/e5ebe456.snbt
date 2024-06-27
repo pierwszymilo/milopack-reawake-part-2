@@ -1,0 +1,12 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "f6436a52",
+		type: "item",
+		items: [{
+			item: "libvulpes:holoprojector"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"0e8e72cf"
+	],
+	tasks: [{
+		uid: "d68a057c",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustEnderPearl"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustEnderPearl"
+				}
+			}
+		}]
+	}]
+}

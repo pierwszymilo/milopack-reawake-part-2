@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	shape: "gear",
+	dependencies: [
+		"4c93557f"
+	],
+	tasks: [{
+		uid: "43b90319",
+		type: "item",
+		items: [{
+			item: "gregtechmod:data_storage_circuit"
+		}]
+	}]
+}

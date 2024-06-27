@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: 3.0d,
+	dependencies: [
+		"37163e16"
+	],
+	tasks: [{
+		uid: "d28d0d85",
+		type: "item",
+		items: [{
+			item: "bigreactors:ingotgraphite"
+		}]
+	}]
+}

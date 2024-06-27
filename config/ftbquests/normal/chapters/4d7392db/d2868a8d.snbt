@@ -1,0 +1,41 @@
+{
+	title: "Grind Alchemy: ACT 1",
+	icon: "thaumcraft:tallow",
+	x: 9.5d,
+	y: 7.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "1cd925f2",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}],
+		count: 2L
+	},
+	{
+		uid: "a498c292",
+		type: "item",
+		items: [{
+			item: "minecraft:slime_ball"
+		}],
+		count: 2L
+	},
+	{
+		uid: "87801ad1",
+		type: "item",
+		items: [{
+			item: "minecraft:dye"
+		}],
+		count: 2L
+	},
+	{
+		uid: "554dcb40",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}],
+		count: 2L
+	}]
+}

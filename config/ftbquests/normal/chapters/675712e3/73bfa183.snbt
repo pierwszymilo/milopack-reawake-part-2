@@ -1,0 +1,11 @@
+{
+	x: 12.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "b1f46dee",
+		type: "item",
+		items: [{
+			item: "vehicle:small_engine 1 1"
+		}]
+	}]
+}

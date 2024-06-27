@@ -1,0 +1,24 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	description: "As you look at the brick you see the unlimited potential",
+	text: [
+		"Of building furnaces!"
+	],
+	dependencies: [
+		"fa2e1b2b"
+	],
+	tasks: [{
+		uid: "f73c15e9",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}],
+	rewards: [{
+		uid: "3f741584",
+		type: "item",
+		item: "minecraft:glass",
+		count: 16
+	}]
+}

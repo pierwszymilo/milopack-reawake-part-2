@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 6.0d,
+	dependencies: [
+		"9c0949f3"
+	],
+	tasks: [{
+		uid: "17fd5bb2",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:biometric_card",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

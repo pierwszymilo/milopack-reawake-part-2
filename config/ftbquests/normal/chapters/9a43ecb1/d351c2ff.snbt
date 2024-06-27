@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: 4.5d,
+	dependencies: [
+		"b49e7036"
+	],
+	tasks: [{
+		uid: "86942a90",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontrolrod"
+		}]
+	}]
+}

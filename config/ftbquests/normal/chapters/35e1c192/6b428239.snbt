@@ -1,0 +1,45 @@
+{
+	title: "Ender Armor",
+	x: -7.5d,
+	y: 3.0d,
+	dependencies: [
+		"de7c59fd",
+		"8576cdd4"
+	],
+	tasks: [{
+		uid: "c9d8ec59",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cbe1a079",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "52063f32",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "26266977",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

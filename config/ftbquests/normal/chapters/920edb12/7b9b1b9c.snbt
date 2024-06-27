@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -8.5d,
+	shape: "gear",
+	dependencies: [
+		"6548e82d"
+	],
+	tasks: [{
+		uid: "0a71ce80",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcontroller"
+		}]
+	}]
+}

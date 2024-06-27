@@ -1,0 +1,30 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	description: "It's not that small",
+	text: [
+		"But compared to the AE systems you had..."
+	],
+	dependencies: [
+		"0a9bf700"
+	],
+	tasks: [{
+		uid: "4ebcda05",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "04e10c96",
+		type: "item",
+		item: "minecraft:piston",
+		count: 2
+	},
+	{
+		uid: "c0d711f0",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 16
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	dependencies: [
+		"e850a931",
+		"5efb22b1"
+	],
+	tasks: [{
+		uid: "abb86ea3",
+		type: "item",
+		items: [{
+			item: "gregtechmod:circuit_board_processor"
+		}]
+	}]
+}

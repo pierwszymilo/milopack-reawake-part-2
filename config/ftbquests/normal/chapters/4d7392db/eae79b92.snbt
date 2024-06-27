@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 6.0d,
+	dependencies: [
+		"59dae8c8",
+		"71322f3d"
+	],
+	tasks: [{
+		uid: "de3d34f9",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_wood"
+		}]
+	}]
+}

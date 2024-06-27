@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: 9.5d,
+	dependencies: [
+		"f834b59d",
+		"8aefd094"
+	],
+	tasks: [{
+		uid: "f859ae3d",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinecontroller"
+		}]
+	}]
+}

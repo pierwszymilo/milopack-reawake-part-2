@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: 2.5d,
+	dependencies: [
+		"e5ebe456"
+	],
+	tasks: [{
+		uid: "fc8e6fc9",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockCoil"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockCoil"
+				}
+			}
+		}],
+		count: 2L
+	}]
+}

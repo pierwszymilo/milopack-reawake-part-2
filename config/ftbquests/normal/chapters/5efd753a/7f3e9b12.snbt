@@ -1,0 +1,55 @@
+{
+	icon: "advancedrocketry:planetanalyser",
+	x: 27.5d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"86b635a2",
+		"55ed5142"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "f386519f",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:planetanalyser"
+		}]
+	},
+	{
+		uid: "ddfaf609",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 1"
+		}]
+	},
+	{
+		uid: "4c7cd8ba",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}]
+	},
+	{
+		uid: "8551bfb6",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}]
+	},
+	{
+		uid: "848e6fab",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:loader"
+		}],
+		count: 3L
+	},
+	{
+		uid: "29881d83",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_slab"
+		}],
+		count: 5L
+	}]
+}

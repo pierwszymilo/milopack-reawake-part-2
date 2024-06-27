@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	dependencies: [
+		"bf5a6620",
+		"f7dd6f0a"
+	],
+	tasks: [{
+		uid: "6a683ed3",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:itemcircuitplate"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 14.0d,
+	y: 15.0d,
+	dependencies: [
+		"aa005c04"
+	],
+	tasks: [{
+		uid: "5a10bab9",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			Damage: 1s,
+			tag: {
+				Aspects: [{
+					key: "alkimia",
+					amount: 10
+				}]
+			}
+		}]
+	}]
+}

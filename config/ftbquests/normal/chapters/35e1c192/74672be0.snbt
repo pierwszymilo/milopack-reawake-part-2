@@ -1,0 +1,14 @@
+{
+	x: 15.0d,
+	y: 1.5d,
+	dependencies: [
+		"e5badea4"
+	],
+	tasks: [{
+		uid: "e46f0cee",
+		type: "item",
+		items: [{
+			item: "rftools:screen"
+		}]
+	}]
+}

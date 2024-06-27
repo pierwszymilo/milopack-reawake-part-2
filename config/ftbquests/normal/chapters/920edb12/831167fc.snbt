@@ -1,0 +1,22 @@
+{
+	x: -13.5d,
+	y: -11.5d,
+	tasks: [{
+		uid: "743214ca",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotCopper"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotCopper"
+				}
+			}
+		}]
+	}]
+}

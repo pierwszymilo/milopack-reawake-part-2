@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: 14.5d,
+	dependencies: [
+		"a14c63f2",
+		"513037a6"
+	],
+	tasks: [{
+		uid: "615fe473",
+		type: "item",
+		items: [{
+			item: "thaumcraft:focus_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

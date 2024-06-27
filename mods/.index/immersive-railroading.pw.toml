@@ -1,0 +1,13 @@
+filename = 'ImmersiveRailroading-1.12.2-forge-1.9.1.jar'
+name = 'Immersive Railroading'
+side = 'both'
+
+[download]
+hash = '227fc3ba520da9f3d747f5408a641704f294a51f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3437738
+project-id = 277736

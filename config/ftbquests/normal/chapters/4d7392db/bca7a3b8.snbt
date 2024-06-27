@@ -1,0 +1,27 @@
+{
+	title: "Brass",
+	x: 14.5d,
+	y: 8.5d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "240464e3",
+		type: "item",
+		title: "Alchemical Brass or Chemical Brass",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBrass"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBrass"
+				}
+			}
+		}]
+	}]
+}

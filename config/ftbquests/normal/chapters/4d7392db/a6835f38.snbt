@@ -1,0 +1,16 @@
+{
+	x: 11.5d,
+	y: 21.0d,
+	dependencies: [
+		"ea87a92c"
+	],
+	tasks: [{
+		uid: "b33b7292",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cloth_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

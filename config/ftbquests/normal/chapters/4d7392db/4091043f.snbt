@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 8.5d,
+	shape: "pentagon",
+	dependencies: [
+		"14833772",
+		"59dae8c8"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "8e98c648",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumometer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

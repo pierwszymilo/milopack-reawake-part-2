@@ -1,0 +1,12 @@
+{
+	x: 10.5d,
+	y: -1.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "e63ffa76",
+		type: "item",
+		items: [{
+			item: "vehicle:workstation"
+		}]
+	}]
+}

@@ -1,0 +1,65 @@
+{
+	title: "Casting Basin",
+	icon: "minecraft:nether_brick",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"Requirements:",
+		"- 114 Stone Bricks",
+		"- 1 Block of Steel",
+		"- 86 Nether Bricks",
+		"- 126 Sand",
+		"- 63 Iron Bars",
+		"- 15 Blocks of Iron"
+	],
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "fb94ff5b",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_brick"
+		}],
+		count: 64L
+	},
+	{
+		uid: "fbc3322c",
+		type: "item",
+		items: [{
+			item: "minecraft:stonebrick"
+		}],
+		count: 64L
+	},
+	{
+		uid: "823eaccd",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_steel"
+		}]
+	},
+	{
+		uid: "2740f111",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 64L
+	},
+	{
+		uid: "2f32fc57",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}],
+		count: 63L
+	},
+	{
+		uid: "ac858028",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 15L
+	}]
+}

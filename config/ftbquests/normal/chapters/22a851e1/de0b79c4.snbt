@@ -1,0 +1,19 @@
+{
+	title: "Draining",
+	x: 10.0d,
+	y: 1.5d,
+	description: "Because you need to take the metals out of the smeltery",
+	text: [
+		""
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "bb11eb91",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	}]
+}

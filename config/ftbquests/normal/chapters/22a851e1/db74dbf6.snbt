@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: 2.5d,
+	description: "To form metals into tool parts",
+	text: [
+		"Putting a cheap tool part and pouring gold into the casting table will end by melting the part but also giving you a new cast for further use"
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "9ca5eae2",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	}]
+}

@@ -1,0 +1,81 @@
+{
+	title: "Katana on a budget",
+	x: -2.5d,
+	y: 1.5d,
+	description: "You can dash though!",
+	text: [
+		""
+	],
+	dependencies: [
+		"0a97569f"
+	],
+	tasks: [{
+		uid: "b03fdeb4",
+		type: "item",
+		title: "Longsword",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"leveling_mod"
+					]
+				},
+				Stats: {
+					Durability: 691,
+					HarvestLevel: 3,
+					Attack: 6.5f,
+					MiningSpeed: 7.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				StatsOriginal: {
+					Durability: 691,
+					HarvestLevel: 3,
+					Attack: 6.5f,
+					MiningSpeed: 7.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "leveling_mod",
+					color: 0,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"leveling_mod"
+				],
+				leveling: {
+					level: 0,
+					exp: 0,
+					check: 0b
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

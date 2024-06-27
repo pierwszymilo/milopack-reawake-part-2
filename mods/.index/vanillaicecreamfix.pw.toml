@@ -1,0 +1,13 @@
+filename = 'VanillaIcecreamFix-1.0.1.jar'
+name = 'VanillaIcecreamFix'
+side = 'both'
+
+[download]
+hash = '07baaadbcf5f70fa512d94a9789647b638e264074764b1e8fcda24d86884c74af317200c3d1f8550ffd7f291dbc781a683f5aa1368d814fea1e44d90cc1a88bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5HUqEye3/versions/JFS14E3T/VanillaIcecreamFix-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '5HUqEye3'
+version = 'JFS14E3T'

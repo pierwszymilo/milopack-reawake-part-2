@@ -1,0 +1,42 @@
+{
+	title: "Dirty hands",
+	x: -2.0d,
+	y: 0.0d,
+	description: "Don't get sad",
+	text: [
+		"You'll get even more messy!!"
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "0eea0099",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3cf68ba3",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 64L
+	},
+	{
+		uid: "f3ffec37",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "d7d2e9e1",
+		type: "item",
+		item: "minecraft:bread",
+		count: 6
+	}]
+}

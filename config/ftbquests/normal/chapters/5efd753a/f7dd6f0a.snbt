@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 7.0d,
+	dependencies: [
+		"206564ad"
+	],
+	tasks: [{
+		uid: "f68e2c1b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:wafer"
+		}]
+	}]
+}

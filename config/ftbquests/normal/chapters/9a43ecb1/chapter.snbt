@@ -1,0 +1,7 @@
+{
+	title: "Nuclear Fission",
+	icon: "ic2:te 1 22",
+	always_invisible: false,
+	group: -14453354,
+	default_quest_shape: ""
+}

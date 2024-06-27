@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	dependencies: [
+		"e5ebe456"
+	],
+	tasks: [{
+		uid: "b40ad358",
+		type: "item",
+		items: [{
+			item: "libvulpes:linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: 11.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "f4bf349d",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "vacuos",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

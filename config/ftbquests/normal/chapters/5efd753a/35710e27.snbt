@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 11.5d,
+	dependencies: [
+		"809d3caa"
+	],
+	tasks: [{
+		uid: "a6b0d7be",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satelliteprimaryfunction 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 21.5d,
+	y: 6.0d,
+	dependencies: [
+		"25f825eb"
+	],
+	tasks: [{
+		uid: "5989fac3",
+		type: "item",
+		items: [{
+			item: "libvulpes:productgem"
+		}],
+		count: 64L
+	}]
+}

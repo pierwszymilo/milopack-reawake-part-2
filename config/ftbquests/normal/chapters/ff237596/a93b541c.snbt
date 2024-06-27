@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"f3d1967c",
+		"6e194453"
+	],
+	tasks: [{
+		uid: "ef4df568",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_chrome"
+		}]
+	}]
+}

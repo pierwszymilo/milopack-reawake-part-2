@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	dependencies: [
+		"6b92d1b2"
+	],
+	tasks: [{
+		uid: "abb114f8",
+		type: "item",
+		items: [{
+			item: "thaumcraft:turret"
+		}]
+	}]
+}

@@ -1,0 +1,45 @@
+{
+	icon: "gregtechmod:teblock 1 43",
+	x: 7.5d,
+	y: 8.0d,
+	shape: "gear",
+	dependencies: [
+		"620e7497"
+	],
+	tasks: [{
+		uid: "8b4a2437",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 43"
+		}]
+	},
+	{
+		uid: "018c144e",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_standard_machine_casing"
+		}],
+		count: 30L
+	},
+	{
+		uid: "01ce80d7",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 38"
+		}]
+	},
+	{
+		uid: "ed393ca1",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 36"
+		}]
+	},
+	{
+		uid: "5f4714ed",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 39"
+		}]
+	}]
+}

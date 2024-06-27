@@ -1,0 +1,24 @@
+{
+	title: "Serious traveling",
+	x: -1.0d,
+	y: 7.5d,
+	description: "Wheel with it (*steer wheel)",
+	text: [
+		"The idea of sailing while feeling the beautiful breeze seems great. But at some point you'll have to settle down."
+	],
+	dependencies: [
+		"4c8d3cf9"
+	],
+	tasks: [{
+		uid: "651f610f",
+		type: "item",
+		items: [{
+			item: "davincisvessels:marker"
+		}]
+	}],
+	rewards: [{
+		uid: "5ab6d7ad",
+		type: "item",
+		item: "cqrepoured:shield_pirate2"
+	}]
+}

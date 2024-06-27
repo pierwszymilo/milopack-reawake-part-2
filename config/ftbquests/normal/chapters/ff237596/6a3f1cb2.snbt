@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8e9ca171",
+		type: "item",
+		items: [{
+			item: "gregtechmod:diamond_sawblade"
+		}]
+	}]
+}

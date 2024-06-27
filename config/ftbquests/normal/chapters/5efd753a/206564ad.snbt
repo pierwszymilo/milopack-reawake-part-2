@@ -1,0 +1,64 @@
+{
+	icon: "advancedrocketry:sawblade",
+	x: 5.0d,
+	y: 8.5d,
+	shape: "gear",
+	dependencies: [
+		"fb2bbdc9"
+	],
+	hide_text_until_complete: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "ffe54b0a",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:cuttingmachine"
+		}]
+	},
+	{
+		uid: "1b836abe",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch 1 1"
+		}]
+	},
+	{
+		uid: "ba26e246",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}]
+	},
+	{
+		uid: "9a5a717b",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}]
+	},
+	{
+		uid: "b0a47013",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:sawblade"
+		}]
+	},
+	{
+		uid: "fb2d25eb",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockMotor"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockMotor"
+				}
+			}
+		}]
+	}]
+}

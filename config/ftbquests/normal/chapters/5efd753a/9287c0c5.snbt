@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 7.0d,
+	dependencies: [
+		"cafdbc74"
+	],
+	tasks: [{
+		uid: "0e86338b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:dataunit"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"d0e9cebd"
+	],
+	tasks: [{
+		uid: "8ea2dcae",
+		type: "item",
+		items: [{
+			item: "gregtechmod:coil_cupronickel"
+		}],
+		count: 4L
+	}]
+}

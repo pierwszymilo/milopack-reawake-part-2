@@ -1,0 +1,26 @@
+{
+	x: 14.5d,
+	y: 11.0d,
+	shape: "pentagon",
+	dependencies: [
+		"5cf58b55",
+		"2eeb382f",
+		"b58ddc4a",
+		"4cb20adb",
+		"6993d0ea",
+		"53b63bbf",
+		"4d8cd710",
+		"0f7aeac7",
+		"7bcecad3",
+		"6921305f",
+		"bca7a3b8"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "4edf70e9",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_basic"
+		}]
+	}]
+}

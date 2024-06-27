@@ -1,0 +1,43 @@
+{
+	icon: "gregtechmod:teblock 1 23",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	dependencies: [
+		"0e8e72cf",
+		"b86322ea",
+		"ea89ecce"
+	],
+	tasks: [{
+		uid: "0453f741",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 23"
+		}]
+	},
+	{
+		uid: "5615036f",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_reinforced_machine_casing"
+		}],
+		count: 8L
+	},
+	{
+		uid: "7fff80f7",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_standard_machine_casing"
+		}],
+		count: 18L
+	},
+	{
+		uid: "5383930c",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

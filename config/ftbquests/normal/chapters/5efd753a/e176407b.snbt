@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 10.0d,
+	shape: "rsquare",
+	dependencies: [
+		"b302af63"
+	],
+	tasks: [{
+		uid: "5f0304b7",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "rocketfuel",
+				Amount: 1000
+			}
+		}]
+	}]
+}

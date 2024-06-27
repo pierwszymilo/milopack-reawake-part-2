@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "5120eedc",
+		type: "item",
+		items: [{
+			item: "vehicle:electric_engine 1 4"
+		}]
+	}]
+}

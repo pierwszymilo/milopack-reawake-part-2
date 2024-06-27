@@ -1,0 +1,25 @@
+{
+	title: "Lesser Crimson Portal",
+	x: 5.0d,
+	y: 26.5d,
+	dependencies: [
+		"580a112f",
+		"e6781a37"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "c3b4ad9e",
+		type: "observation",
+		title: "Find or spawn one",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				id: "thaumcraft:cultistportallesser",
+				Generic: 1b
+			}
+		},
+		match_type: "entity_id",
+		match: "thaumcraft:cultistportallesser",
+		timer: 0L
+	}]
+}

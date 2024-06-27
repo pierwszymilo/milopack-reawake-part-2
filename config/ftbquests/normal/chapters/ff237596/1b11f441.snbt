@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: 8.0d,
+	shape: "gear",
+	dependencies: [
+		"ce63533f",
+		"80807485",
+		"3617a929"
+	],
+	tasks: [{
+		uid: "592d8ef1",
+		type: "item",
+		items: [{
+			id: "ic2:nano_saber",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

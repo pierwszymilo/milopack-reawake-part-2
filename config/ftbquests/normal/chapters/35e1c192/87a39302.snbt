@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: -1.5d,
+	dependencies: [
+		"d5bd01de"
+	],
+	tasks: [{
+		uid: "7893f986",
+		type: "item",
+		items: [{
+			item: "rftools:dialing_device"
+		}]
+	}]
+}

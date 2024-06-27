@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 9.0d,
+	dependencies: [
+		"95d32ec8"
+	],
+	tasks: [{
+		uid: "f8c09a55",
+		type: "item",
+		items: [{
+			id: "ic2:reactor_heat_vent",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

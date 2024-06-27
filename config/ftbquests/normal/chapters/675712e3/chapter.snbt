@@ -1,0 +1,7 @@
+{
+	title: "Transporting Resoruces",
+	icon: "minecraft:rail",
+	always_invisible: false,
+	group: -1844520174,
+	default_quest_shape: ""
+}

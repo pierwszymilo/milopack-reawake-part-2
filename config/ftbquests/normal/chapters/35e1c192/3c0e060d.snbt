@@ -1,0 +1,13 @@
+{
+	x: -11.0d,
+	y: 5.5d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "c13ad41c",
+		type: "item",
+		items: [{
+			item: "enderio:block_vat"
+		}]
+	}]
+}

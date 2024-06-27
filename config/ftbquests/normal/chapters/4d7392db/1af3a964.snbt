@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: 18.5d,
+	dependencies: [
+		"f904778c",
+		"2d2f67d4"
+	],
+	tasks: [{
+		uid: "b868a2ef",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_growth"
+		}]
+	}]
+}

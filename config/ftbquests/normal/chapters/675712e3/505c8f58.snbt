@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 7.0d,
+	dependencies: [
+		"050f795f"
+	],
+	tasks: [{
+		uid: "7b07cfc3",
+		type: "item",
+		items: [{
+			item: "vehicle:gas_pump"
+		}]
+	}]
+}

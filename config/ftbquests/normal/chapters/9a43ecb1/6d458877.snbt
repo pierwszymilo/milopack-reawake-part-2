@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "a62f6a9c",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_uranium"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Why even think of making a filnt version?",
+	x: -3.0d,
+	y: 5.0d,
+	description: "The iron one lasts longer",
+	text: [
+		"Now you're going to speedrun the bronze age and steampunk. Steam powered machines are too slow and inefficient for you. Get your mortar and grind some ingots!"
+	],
+	dependencies: [
+		"4c8d3cf9"
+	],
+	tasks: [{
+		uid: "f3178907",
+		type: "item",
+		items: [{
+			item: "gregtechmod:mortar_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "947ae6b8",
+		type: "item",
+		item: "gregtechmod:mortar_flint"
+	}]
+}

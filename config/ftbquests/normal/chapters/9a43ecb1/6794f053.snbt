@@ -1,0 +1,14 @@
+{
+	x: 15.5d,
+	y: 3.5d,
+	dependencies: [
+		"b49e7036"
+	],
+	tasks: [{
+		uid: "3fa6db13",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorglass"
+		}]
+	}]
+}

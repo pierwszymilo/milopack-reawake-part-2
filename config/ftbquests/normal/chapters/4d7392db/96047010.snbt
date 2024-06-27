@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: 8.5d,
+	shape: "pentagon",
+	dependencies: [
+		"3b45b2a5",
+		"4091043f"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "3b97a90a",
+		type: "observation",
+		title: "No... Thaumic Alchemy",
+		icon: "thaumcraft:crucible",
+		match_type: "block_id",
+		match: "thaumcraft:crucible",
+		timer: 0L
+	}]
+}

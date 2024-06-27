@@ -1,0 +1,17 @@
+{
+	title: "What is this and how do I get rid of it?!",
+	x: 7.0d,
+	y: 26.5d,
+	dependencies: [
+		"f6636838"
+	],
+	tasks: [{
+		uid: "edd75708",
+		type: "observation",
+		title: "Make a flux rift",
+		icon: "thaumcraft:taint_fibre",
+		match_type: "entity_id",
+		match: "thaumcraft:fluxrift",
+		timer: 0L
+	}]
+}

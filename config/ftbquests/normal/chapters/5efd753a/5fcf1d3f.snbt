@@ -1,0 +1,14 @@
+{
+	x: 24.5d,
+	y: 11.0d,
+	dependencies: [
+		"a2afafe4"
+	],
+	tasks: [{
+		uid: "44a68285",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:elevatorchip"
+		}]
+	}]
+}

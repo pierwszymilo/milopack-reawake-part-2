@@ -1,0 +1,14 @@
+{
+	x: 19.0d,
+	y: 8.5d,
+	dependencies: [
+		"a7aabc70"
+	],
+	tasks: [{
+		uid: "06be9f03",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:monitoringstation"
+		}]
+	}]
+}

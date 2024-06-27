@@ -1,0 +1,20 @@
+{
+	x: 14.5d,
+	y: 5.0d,
+	dependencies: [
+		"b039774f"
+	],
+	tasks: [{
+		uid: "bc298257",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquid_death",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

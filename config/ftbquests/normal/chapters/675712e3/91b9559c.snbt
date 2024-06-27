@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "bcff27ea",
+		type: "item",
+		items: [{
+			item: "immersiverailroading:item_large_wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

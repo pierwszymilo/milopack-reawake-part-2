@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 16.0d,
+	dependencies: [
+		"72f81783"
+	],
+	tasks: [{
+		uid: "d1e40b70",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_arcane"
+		}]
+	}]
+}

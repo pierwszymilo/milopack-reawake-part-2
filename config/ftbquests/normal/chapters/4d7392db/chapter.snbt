@@ -1,0 +1,7 @@
+{
+	title: "Alternative ways of solving problems",
+	icon: "thaumcraft:infusion_matrix",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

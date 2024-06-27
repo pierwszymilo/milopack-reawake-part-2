@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	dependencies: [
+		"f524764e"
+	],
+	tasks: [{
+		uid: "e7bcbf9f",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}],
+		count: 2L
+	}]
+}

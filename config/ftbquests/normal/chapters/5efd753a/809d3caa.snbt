@@ -1,0 +1,22 @@
+{
+	icon: "advancedrocketry:satellitebuilder",
+	x: 7.0d,
+	y: 9.0d,
+	dependencies: [
+		"9287c0c5"
+	],
+	tasks: [{
+		uid: "755b7bdd",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satellitebuilder"
+		}]
+	},
+	{
+		uid: "f8342c3f",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}]
+	}]
+}

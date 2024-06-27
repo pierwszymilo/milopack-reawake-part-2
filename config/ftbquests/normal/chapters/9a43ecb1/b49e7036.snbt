@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: 5.0d,
+	dependencies: [
+		"a0d13955",
+		"834dc319"
+	],
+	tasks: [{
+		uid: "a05aef1d",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcasing"
+		}]
+	}]
+}

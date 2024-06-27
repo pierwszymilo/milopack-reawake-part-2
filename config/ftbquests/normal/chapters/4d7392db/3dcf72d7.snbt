@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 7.5d,
+	dependencies: [
+		"eae79b92"
+	],
+	tasks: [{
+		uid: "922c90ed",
+		type: "observation",
+		icon: "thaumcraft:research_table",
+		match_type: "block_id",
+		match: "thaumcraft:research_table",
+		timer: 0L
+	}]
+}

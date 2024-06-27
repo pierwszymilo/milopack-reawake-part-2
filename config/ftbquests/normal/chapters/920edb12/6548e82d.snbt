@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -10.0d,
+	dependencies: [
+		"5b7c2a34"
+	],
+	tasks: [{
+		uid: "b7e50525",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcasing"
+		}]
+	}]
+}

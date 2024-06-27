@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 22.0d,
+	dependencies: [
+		"f904778c"
+	],
+	tasks: [{
+		uid: "ab239e9f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fabric"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Getting Auram",
+	icon: {
+		id: "thaumcraft:crystal_essence",
+		tag: {
+			Aspects: [{
+				key: "auram",
+				amount: 1
+			}]
+		}
+	},
+	x: -3.5d,
+	y: 12.5d,
+	dependencies: [
+		"38017db9"
+	],
+	tasks: [{
+		uid: "ecb8584f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:log_silverwood"
+		}]
+	}]
+}

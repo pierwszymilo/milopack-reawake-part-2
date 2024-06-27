@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 7.5d,
+	description: "[Hold shift to check the mob inside]",
+	text: [
+		""
+	],
+	dependencies: [
+		"adb6d5af"
+	],
+	tasks: [{
+		uid: "a9606135",
+		type: "item",
+		items: [{
+			id: "enderio:item_soul_vial",
+			Damage: 1s,
+			tag: {
+				entityId: "minecraft:zombie"
+			}
+		}]
+	}]
+}

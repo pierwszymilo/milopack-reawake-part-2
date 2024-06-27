@@ -1,0 +1,14 @@
+{
+	x: 15.5d,
+	y: 11.0d,
+	dependencies: [
+		"504c0d18"
+	],
+	tasks: [{
+		uid: "47690e02",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinerotorshaft"
+		}]
+	}]
+}

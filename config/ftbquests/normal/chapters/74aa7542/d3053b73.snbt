@@ -1,0 +1,26 @@
+{
+	title: "Start of something big",
+	x: -7.0d,
+	y: 1.5d,
+	shape: "gear",
+	description: "FINALLY STEEL",
+	text: [
+		"The best form of iron. The best and the ultimate alloy. Now you possess the power to rebuild tech society"
+	],
+	dependencies: [
+		"00d7b601"
+	],
+	tasks: [{
+		uid: "dece4991",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_steel"
+		}]
+	}],
+	rewards: [{
+		uid: "f0b06fe8",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 16
+	}]
+}

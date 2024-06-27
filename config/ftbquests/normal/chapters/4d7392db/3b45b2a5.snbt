@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 6.0d,
+	dependencies: [
+		"a56d7277"
+	],
+	tasks: [{
+		uid: "229fede1",
+		type: "observation",
+		title: "Witchery?",
+		icon: "minecraft:cauldron",
+		match_type: "block_id",
+		match: "minecraft:cauldron",
+		timer: 0L
+	}]
+}

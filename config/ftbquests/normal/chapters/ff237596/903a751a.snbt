@@ -1,0 +1,57 @@
+{
+	title: "QuantumSuit",
+	x: -1.5d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	dependencies: [
+		"ce63533f",
+		"80807485"
+	],
+	tasks: [{
+		uid: "c11b64e9",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_helmet",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7824f24b",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_chestplate",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9f12f100",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_leggings",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e593871b",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_boots",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

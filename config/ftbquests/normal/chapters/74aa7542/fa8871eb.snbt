@@ -1,0 +1,63 @@
+{
+	title: "Get over here!",
+	x: -3.0d,
+	y: 7.0d,
+	description: "[wow, the most non-creative joke]",
+	text: [
+		"Grappling hook might be useful as traveling tool in large cave systems. Of course it would be better to use a quarry instead of manual mining, but the budget won't let you maintain things like that."
+	],
+	dependencies: [
+		"4c8d3cf9"
+	],
+	tasks: [{
+		uid: "fe241ed3",
+		type: "item",
+		items: [{
+			id: "grapplemod:grapplinghook",
+			tag: {
+				phaserope: 0b,
+				motor: 0b,
+				motorwhencrouching: 0b,
+				motorwhennotcrouching: 1b,
+				smartmotor: 0b,
+				enderstaff: 0b,
+				repel: 0b,
+				attract: 0b,
+				doublehook: 0b,
+				smartdoublemotor: 1b,
+				motordampener: 0b,
+				reelin: 1b,
+				pullbackwards: 1b,
+				oneropepull: 0b,
+				sticky: 0b,
+				detachonkeyrelease: 0b,
+				rocket: 0b,
+				maxlen: 30.0d,
+				hookgravity: 1.0d,
+				throwspeed: 2.0d,
+				motormaxspeed: 4.0d,
+				motoracceleration: 0.2d,
+				playermovementmult: 1.0d,
+				repelforce: 1.0d,
+				attractradius: 3.0d,
+				angle: 20.0d,
+				sneakingangle: 10.0d,
+				verticalthrowangle: 0.0d,
+				sneakingverticalthrowangle: 0.0d,
+				rocket_force: 1.0d,
+				rocket_active_time: 0.5d,
+				rocket_refuel_ratio: 15.0d,
+				rocket_vertical_angle: 0.0d,
+				crc32: 2252267022L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c7103cfd",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	}]
+}

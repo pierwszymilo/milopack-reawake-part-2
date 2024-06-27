@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 6.5d,
+	shape: "gear",
+	dependencies: [
+		"73468944",
+		"ea89ecce"
+	],
+	tasks: [{
+		uid: "020cd102",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 20"
+		}]
+	}]
+}

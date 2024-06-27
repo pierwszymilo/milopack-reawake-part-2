@@ -1,0 +1,54 @@
+{
+	icon: "advancedrocketry:warpmonitor",
+	x: 21.5d,
+	y: 5.0d,
+	dependencies: [
+		"0b305a03",
+		"a50b92e0"
+	],
+	tasks: [{
+		uid: "c27f4e22",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:warpmonitor"
+		}]
+	},
+	{
+		uid: "709210b4",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_titanium"
+		}],
+		count: 15L
+	},
+	{
+		uid: "ea93ecc6",
+		type: "item",
+		items: [{
+			item: "libvulpes:hatch"
+		}]
+	},
+	{
+		uid: "a76e08f1",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}],
+		count: 4L
+	},
+	{
+		uid: "e160ca86",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_block"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e77ce3ce",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:warpcore"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Smelting",
+	x: 0.0d,
+	y: 4.0d,
+	description: "So this is, how it starts...",
+	text: [
+		"Smelting in the least efficient way..."
+	],
+	dependencies: [
+		"21f8db96"
+	],
+	tasks: [{
+		uid: "591f599e",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "609ddeda",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	}]
+}

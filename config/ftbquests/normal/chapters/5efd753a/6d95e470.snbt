@@ -1,0 +1,30 @@
+{
+	icon: "advancedrocketry:gravitymachine",
+	x: 22.5d,
+	y: 10.0d,
+	dependencies: [
+		"5ba92fc1"
+	],
+	tasks: [{
+		uid: "9a3ee611",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:gravitymachine"
+		}]
+	},
+	{
+		uid: "b83b642d",
+		type: "item",
+		items: [{
+			item: "libvulpes:advstructuremachine"
+		}],
+		count: 4L
+	},
+	{
+		uid: "406d205c",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}]
+	}]
+}

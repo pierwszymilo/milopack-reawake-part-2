@@ -1,0 +1,14 @@
+{
+	x: -15.5d,
+	y: -5.0d,
+	dependencies: [
+		"019d2fb0"
+	],
+	tasks: [{
+		uid: "5c86ebfb",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo 1 1"
+		}]
+	}]
+}

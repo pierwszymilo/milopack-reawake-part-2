@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: -9.5d,
+	tasks: [{
+		uid: "3f790858",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTin"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotTin"
+				}
+			}
+		}]
+	}]
+}

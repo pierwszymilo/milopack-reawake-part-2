@@ -1,0 +1,14 @@
+{
+	x: 12.5d,
+	y: 13.0d,
+	dependencies: [
+		"b5600cb2"
+	],
+	tasks: [{
+		uid: "421ee763",
+		type: "item",
+		items: [{
+			item: "thaumcraft:alembic"
+		}]
+	}]
+}

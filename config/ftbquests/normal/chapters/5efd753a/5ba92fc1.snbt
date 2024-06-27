@@ -1,0 +1,14 @@
+{
+	x: 23.5d,
+	y: 8.5d,
+	dependencies: [
+		"25f825eb"
+	],
+	tasks: [{
+		uid: "2a0ad3b9",
+		type: "item",
+		items: [{
+			item: "libvulpes:advstructuremachine"
+		}]
+	}]
+}

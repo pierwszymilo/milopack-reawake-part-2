@@ -1,0 +1,14 @@
+{
+	x: 15.0d,
+	y: 2.5d,
+	dependencies: [
+		"74672be0"
+	],
+	tasks: [{
+		uid: "dc07842a",
+		type: "item",
+		items: [{
+			item: "rftools:clock_module"
+		}]
+	}]
+}

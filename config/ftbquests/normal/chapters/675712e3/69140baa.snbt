@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "1233e3e4",
+		type: "item",
+		items: [{
+			item: "immersiverailroading:item_hook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 2.5d,
+	dependencies: [
+		"74672be0"
+	],
+	tasks: [{
+		uid: "92059d1a",
+		type: "item",
+		items: [{
+			item: "rftools:fluid_module"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

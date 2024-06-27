@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: -2.5d,
+	dependencies: [
+		"8e4a978f"
+	],
+	tasks: [{
+		uid: "8a178546",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 8"
+		}]
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "The hard way",
+	x: -5.0d,
+	y: 3.0d,
+	description: "Another action which is hard both for your body and for your mind",
+	text: [
+		"The body can't stand manual hammering",
+		"The mind can't stand the inefficiency"
+	],
+	dependencies: [
+		"66fe3797",
+		"f9ddd527"
+	],
+	tasks: [{
+		uid: "ce339736",
+		type: "item",
+		icon: "gregtechmod:plate_bronze",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateBronze"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "088f7359",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	}]
+}

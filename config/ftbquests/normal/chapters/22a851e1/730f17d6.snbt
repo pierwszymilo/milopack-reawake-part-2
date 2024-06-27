@@ -1,0 +1,29 @@
+{
+	title: "Hard work - hard tools!",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Yeah,you're not going to make everything with that hatchet..",
+	text: [
+		"You need some tools. Luckily,you do know what to do,a bit of simple tinkering will do the job just fine..",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"at least for now."
+	],
+	dependencies: [
+		"bb77a2c4"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6a15bba7",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern"
+		}],
+		count: 4L
+	}]
+}

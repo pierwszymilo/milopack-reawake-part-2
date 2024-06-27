@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	dependencies: [
+		"4367a543"
+	],
+	tasks: [{
+		uid: "8970fc89",
+		type: "item",
+		items: [{
+			item: "gregtechmod:plate_platinum"
+		}]
+	}]
+}

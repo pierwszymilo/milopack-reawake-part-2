@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 29.5d,
+	dependencies: [
+		"476820ea"
+	],
+	tasks: [{
+		uid: "6ba99718",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_robe_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

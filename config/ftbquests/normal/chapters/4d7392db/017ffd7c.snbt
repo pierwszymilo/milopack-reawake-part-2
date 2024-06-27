@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: 22.5d,
+	dependencies: [
+		"2cccaf8b"
+	],
+	tasks: [{
+		uid: "d30715ea",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_shovel",
+			tag: {
+				infench: [{
+					id: 1s,
+					lvl: 1s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

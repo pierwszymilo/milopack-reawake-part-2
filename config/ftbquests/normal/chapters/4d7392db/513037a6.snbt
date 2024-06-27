@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 10.5d,
+	dependencies: [
+		"38017db9"
+	],
+	tasks: [{
+		uid: "bda270aa",
+		type: "item",
+		items: [{
+			item: "thaumcraft:wand_workbench"
+		}]
+	}]
+}

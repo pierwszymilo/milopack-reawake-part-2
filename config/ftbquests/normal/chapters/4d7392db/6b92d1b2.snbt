@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	dependencies: [
+		"c3095902"
+	],
+	tasks: [{
+		uid: "7b755440",
+		type: "item",
+		items: [{
+			item: "minecraft:dispenser"
+		}]
+	}]
+}

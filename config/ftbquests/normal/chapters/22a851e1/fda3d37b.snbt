@@ -1,0 +1,21 @@
+{
+	title: "Black is stylish",
+	x: 9.5d,
+	y: -1.0d,
+	description: "and useful!",
+	text: [
+		"Bricks [or any kind of seared stone blocks] are used for the floor and walls in the smeltery.",
+		"",
+		"You can of course use them as a regular building block,duh!"
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "84fc4a36",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}]
+	}]
+}

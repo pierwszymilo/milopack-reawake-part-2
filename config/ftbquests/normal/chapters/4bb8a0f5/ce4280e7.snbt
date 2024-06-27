@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	dependencies: [
+		"d0e9cebd"
+	],
+	tasks: [{
+		uid: "48b452a3",
+		type: "item",
+		items: [{
+			item: "gregtechmod:coil_nichrome"
+		}]
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Mix them!",
+	x: -0.5d,
+	y: 1.5d,
+	min_required_dependencies: 3,
+	dependencies: [
+		"116d2075",
+		"4494ede5",
+		"0ee5698f",
+		"752379c1",
+		"8ae06684",
+		"b63767ba"
+	],
+	tasks: [{
+		uid: "f8348673",
+		type: "item",
+		items: [{
+			item: "minecraft:bowl"
+		}]
+	},
+	{
+		uid: "e5870f49",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	},
+	{
+		uid: "bbb6fd44",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

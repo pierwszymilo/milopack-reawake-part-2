@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "50cd882b",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_bridge"
+		}]
+	}]
+}

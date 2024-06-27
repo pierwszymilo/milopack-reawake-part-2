@@ -1,0 +1,16 @@
+{
+	x: 11.5d,
+	y: 0.0d,
+	shape: "gear",
+	dependencies: [
+		"86223250",
+		"f6d70239"
+	],
+	tasks: [{
+		uid: "38cc8dde",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_tungsten_steel"
+		}]
+	}]
+}

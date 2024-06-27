@@ -1,0 +1,14 @@
+{
+	x: -7.0d,
+	y: 8.0d,
+	dependencies: [
+		"72f81783"
+	],
+	tasks: [{
+		uid: "9a222ff9",
+		type: "item",
+		items: [{
+			item: "thaumcraft:grapple_gun_tip"
+		}]
+	}]
+}

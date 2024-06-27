@@ -1,0 +1,21 @@
+{
+	title: "Tritium Cell",
+	x: 6.0d,
+	y: 6.0d,
+	dependencies: [
+		"a3891b44"
+	],
+	tasks: [{
+		uid: "1a0ee105",
+		type: "item",
+		items: [{
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "tritium",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

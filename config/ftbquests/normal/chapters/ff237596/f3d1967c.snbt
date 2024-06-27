@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"552d7bbf"
+	],
+	tasks: [{
+		uid: "4895ccda",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_chrome"
+		}]
+	}]
+}

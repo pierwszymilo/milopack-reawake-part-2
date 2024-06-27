@@ -1,0 +1,14 @@
+{
+	x: 17.5d,
+	y: 16.0d,
+	dependencies: [
+		"ce94663d"
+	],
+	tasks: [{
+		uid: "202d68aa",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_output"
+		}]
+	}]
+}

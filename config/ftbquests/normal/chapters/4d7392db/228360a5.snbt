@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 2.5d,
+	dependencies: [
+		"bbbafc55"
+	],
+	tasks: [{
+		uid: "cd312a01",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mind 1 1"
+		}]
+	}]
+}

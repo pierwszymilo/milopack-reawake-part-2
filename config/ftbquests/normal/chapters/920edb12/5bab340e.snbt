@@ -1,0 +1,12 @@
+{
+	x: -11.0d,
+	y: -13.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "6ffd6561",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:pump"
+		}]
+	}]
+}

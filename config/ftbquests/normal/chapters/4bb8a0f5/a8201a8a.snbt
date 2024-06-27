@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	dependencies: [
+		"80807485",
+		"10eac0ac",
+		"3617a929"
+	],
+	tasks: [{
+		uid: "1047847b",
+		type: "item",
+		items: [{
+			item: "gregtechmod:superconductor"
+		}]
+	}]
+}

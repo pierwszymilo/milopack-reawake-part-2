@@ -1,0 +1,16 @@
+{
+	title: "Salis Mund[s]us",
+	x: -0.5d,
+	y: 3.0d,
+	shape: "pentagon",
+	dependencies: [
+		"c3cac489"
+	],
+	tasks: [{
+		uid: "2a7f6cf9",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}]
+}

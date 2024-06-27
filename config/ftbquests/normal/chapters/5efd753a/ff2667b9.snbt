@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 7.0d,
+	dependencies: [
+		"9287c0c5"
+	],
+	tasks: [{
+		uid: "e0972811",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:wirelesstransciever"
+		}],
+		count: 4L
+	}]
+}

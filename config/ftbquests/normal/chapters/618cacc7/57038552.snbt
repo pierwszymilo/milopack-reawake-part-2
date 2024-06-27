@@ -1,0 +1,54 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	shape: "gear",
+	dependencies: [
+		"68006e05",
+		"78d03219",
+		"6b750923"
+	],
+	tasks: [{
+		uid: "5f112d51",
+		type: "item",
+		items: [{
+			id: "ic2:nano_helmet",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7d2a5703",
+		type: "item",
+		items: [{
+			id: "ic2:nano_chestplate",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "21dbef31",
+		type: "item",
+		items: [{
+			id: "ic2:nano_leggings",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0faba2d9",
+		type: "item",
+		items: [{
+			id: "ic2:nano_boots",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

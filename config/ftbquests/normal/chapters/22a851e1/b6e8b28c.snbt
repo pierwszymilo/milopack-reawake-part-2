@@ -1,0 +1,29 @@
+{
+	title: "Upgrades,people!",
+	x: -1.0d,
+	y: 3.5d,
+	shape: "gear",
+	description: "Upgrades!",
+	text: [
+		"Tool forge is basically, a beefed up version of the tool station allowing for creating more tools.",
+		"",
+		"Also,it looks cooler because you can use a lot of materials as the base."
+	],
+	dependencies: [
+		"0a97569f"
+	],
+	tasks: [{
+		uid: "19207e1d",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}

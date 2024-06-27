@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 12.0d,
+	dependencies: [
+		"daa6d34b"
+	],
+	tasks: [{
+		uid: "723f497c",
+		type: "item",
+		items: [{
+			id: "ic2:uranium_fuel_rod",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

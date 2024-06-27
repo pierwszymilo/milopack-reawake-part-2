@@ -1,0 +1,14 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	dependencies: [
+		"ab7d0de1"
+	],
+	tasks: [{
+		uid: "e3574532",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_ruby"
+		}]
+	}]
+}

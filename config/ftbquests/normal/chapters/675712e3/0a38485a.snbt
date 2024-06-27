@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a09ef34f",
+		type: "item",
+		items: [{
+			item: "vehicle:traffic_cone"
+		}]
+	}]
+}

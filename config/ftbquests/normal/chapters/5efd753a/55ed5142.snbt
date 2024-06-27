@@ -1,0 +1,83 @@
+{
+	icon: "advancedrocketry:observatory",
+	x: 25.0d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"25f825eb"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "d8aa8b73",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:observatory"
+		}]
+	},
+	{
+		uid: "ea2f1f5f",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 17L
+	},
+	{
+		uid: "a4678ed2",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}],
+		count: 37L
+	},
+	{
+		uid: "8fe17c29",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:loader"
+		}],
+		count: 3L
+	},
+	{
+		uid: "b2f5ab44",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}],
+		count: 8L
+	},
+	{
+		uid: "9b77a9bb",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockMotor"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockMotor"
+				}
+			}
+		}]
+	},
+	{
+		uid: "ee0ce0ed",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}],
+		count: 3L
+	},
+	{
+		uid: "29af4178",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:blocklens"
+		}],
+		count: 3L
+	}]
+}

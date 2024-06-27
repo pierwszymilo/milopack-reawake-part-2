@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "gear",
+	dependencies: [
+		"3380f9d0",
+		"ce4280e7",
+		"a8201a8a"
+	],
+	tasks: [{
+		uid: "6f448fed",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_fusion_coil"
+		}]
+	}]
+}

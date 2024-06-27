@@ -1,0 +1,16 @@
+{
+	x: 11.5d,
+	y: 22.0d,
+	dependencies: [
+		"ea87a92c"
+	],
+	tasks: [{
+		uid: "43ab8ae4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cloth_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

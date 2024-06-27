@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 6.0d,
+	shape: "pentagon",
+	dependencies: [
+		"71ef8ce9"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "00de99e3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumonomicon"
+		}],
+		ignore_nbt: 1b
+	}]
+}

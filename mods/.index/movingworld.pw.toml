@@ -1,0 +1,13 @@
+filename = 'movingworld-1.12-6.353-full.jar'
+name = 'MovingWorld'
+side = 'both'
+
+[download]
+hash = 'b9fffe84af553f1c4ecf35825e2d768248c5dd2d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3007966
+project-id = 230495

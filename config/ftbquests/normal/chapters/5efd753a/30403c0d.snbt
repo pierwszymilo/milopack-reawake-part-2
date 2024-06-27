@@ -1,0 +1,19 @@
+{
+	x: 9.5d,
+	y: 12.0d,
+	shape: "gear",
+	dependencies: [
+		"a47df825",
+		"809d3caa"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "b0b0daf6",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:satellite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

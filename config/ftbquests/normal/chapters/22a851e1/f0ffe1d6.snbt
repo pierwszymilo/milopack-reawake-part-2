@@ -1,0 +1,26 @@
+{
+	title: "Forging for blockheads",
+	x: 8.0d,
+	y: 0.5d,
+	shape: "gear",
+	description: "Time to make something BIG.  Again.",
+	text: [
+		"Flint,paper,wood and some other stuff are not enough?",
+		"",
+		"Then maybe it's time to convert your weapons to metal,or alloys (because why not!)",
+		"",
+		"Remember to make a nice supply of those bricks,they'll come in handy.",
+		"",
+		"Trust me."
+	],
+	dependencies: [
+		"eb7cdbf0"
+	],
+	tasks: [{
+		uid: "c7a4ee49",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}]
+}

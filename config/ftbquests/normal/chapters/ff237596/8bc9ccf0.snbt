@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 6.0d,
+	dependencies: [
+		"974ecd1e",
+		"49234284"
+	],
+	tasks: [{
+		uid: "4a1b8814",
+		type: "item",
+		items: [{
+			id: "gregtechmod:saw_advanced",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

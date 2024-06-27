@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 3.0d,
+	dependencies: [
+		"d199d9f7"
+	],
+	tasks: [{
+		uid: "d349f9b6",
+		type: "item",
+		items: [{
+			item: "vehicle:jack"
+		}]
+	}]
+}

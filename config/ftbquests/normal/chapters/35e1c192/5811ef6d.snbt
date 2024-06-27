@@ -1,0 +1,14 @@
+{
+	x: 17.0d,
+	y: 2.5d,
+	dependencies: [
+		"74672be0"
+	],
+	tasks: [{
+		uid: "12385aea",
+		type: "item",
+		items: [{
+			item: "rftools:text_module"
+		}]
+	}]
+}

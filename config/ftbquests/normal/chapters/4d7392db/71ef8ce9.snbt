@@ -1,0 +1,16 @@
+{
+	title: "Place a Bookshelf",
+	x: -0.5d,
+	y: 4.5d,
+	dependencies: [
+		"a56d7277"
+	],
+	tasks: [{
+		uid: "9576d77f",
+		type: "observation",
+		icon: "minecraft:bookshelf",
+		match_type: "block_id",
+		match: "minecraft:bookshelf",
+		timer: 0L
+	}]
+}

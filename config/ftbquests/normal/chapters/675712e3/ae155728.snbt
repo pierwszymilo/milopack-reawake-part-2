@@ -1,0 +1,30 @@
+{
+	title: "Rail Machine",
+	icon: "minecraft:iron_bars",
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"Requirements:",
+		"- 44 Iron Bars",
+		"- 48 Blocks of Iron"
+	],
+	dependencies: [
+		"db762f97"
+	],
+	tasks: [{
+		uid: "be0dd2ff",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}],
+		count: 44L
+	},
+	{
+		uid: "cad48217",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 48L
+	}]
+}

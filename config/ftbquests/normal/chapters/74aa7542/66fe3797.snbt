@@ -1,0 +1,38 @@
+{
+	title: "Hammering time",
+	x: -1.5d,
+	y: 3.0d,
+	description: "In near future the possibility to make plates will be crucial",
+	text: [
+		"The tungstensteel hammer isn't craftable at the moment, so iron or bronze hammer is probabbly the maximum you can construct"
+	],
+	dependencies: [
+		"37163e16"
+	],
+	tasks: [{
+		uid: "620531b3",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolHardHammer"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolHardHammer"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c420ae88",
+		type: "item",
+		item: "ic2:plate 1 3",
+		count: 8
+	}]
+}

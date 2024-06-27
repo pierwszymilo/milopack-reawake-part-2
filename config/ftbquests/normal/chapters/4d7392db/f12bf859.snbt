@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 3.0d,
+	dependencies: [
+		"59dae8c8"
+	],
+	tasks: [{
+		uid: "404fa51d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:phial"
+		}]
+	}]
+}

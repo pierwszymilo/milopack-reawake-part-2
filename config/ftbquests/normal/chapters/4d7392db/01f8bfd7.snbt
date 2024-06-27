@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 14.0d,
+	dependencies: [
+		"f904778c"
+	],
+	tasks: [{
+		uid: "88c97407",
+		type: "item",
+		items: [{
+			item: "thaumcraft:paving_stone_travel"
+		}]
+	}]
+}

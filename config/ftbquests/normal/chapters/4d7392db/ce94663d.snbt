@@ -1,0 +1,21 @@
+{
+	title: "Thaumtomation?",
+	icon: "thaumcraft:thaumatorium",
+	x: 16.5d,
+	y: 14.0d,
+	shape: "pentagon",
+	dependencies: [
+		"1104affc",
+		"c2eb79e2"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "dcfb519a",
+		type: "observation",
+		title: "Make a thaumatorium",
+		icon: "thaumcraft:thaumatorium",
+		match_type: "block_id",
+		match: "thaumcraft:thaumatorium",
+		timer: 0L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "66d21983",
+		type: "item",
+		icon: "ic2:plate 1 8",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateTin"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "plateTin"
+				}
+			}
+		}]
+	}]
+}

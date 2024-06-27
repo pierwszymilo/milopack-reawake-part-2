@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"800f399e",
+		"6e194453"
+	],
+	tasks: [{
+		uid: "c6997a93",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_titanium"
+		}]
+	}]
+}

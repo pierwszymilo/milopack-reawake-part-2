@@ -1,0 +1,39 @@
+{
+	title: "Getting Wood",
+	x: 0.0d,
+	y: 0.0d,
+	description: "As you woke up in front of nothing, you think of getting some basic materials",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "bb36f41b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				}
+			}
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "937ccf1a",
+		type: "item",
+		item: "ic2:sapling"
+	},
+	{
+		uid: "080f8867",
+		type: "item",
+		item: "minecraft:apple",
+		count: 8
+	}]
+}

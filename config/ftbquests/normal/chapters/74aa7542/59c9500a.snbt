@@ -1,0 +1,34 @@
+{
+	title: "Take more items with yourself!",
+	x: 2.0d,
+	y: 0.0d,
+	description: "The space in hands isn't infinite...",
+	text: [
+		"So the backpack will help you in your travel",
+		"You can feel the blood boiling in your veins caused by not having access to wireless item terminals..."
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "5cc3d857",
+		type: "item",
+		items: [{
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					type: "ironbackpacks:basic",
+					spec: "NONE",
+					upgrade: []
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "68843456",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 4
+	}]
+}

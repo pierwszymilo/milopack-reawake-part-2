@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 16.0d,
+	shape: "pentagon",
+	dependencies: [
+		"086d0a7f"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "71b71f47",
+		type: "item",
+		items: [{
+			item: "thaumcraft:arcane_workbench_charger"
+		}]
+	}]
+}

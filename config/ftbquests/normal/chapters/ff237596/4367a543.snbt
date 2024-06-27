@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"c346ee1b"
+	],
+	tasks: [{
+		uid: "067703bd",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_platinum"
+		}]
+	}]
+}

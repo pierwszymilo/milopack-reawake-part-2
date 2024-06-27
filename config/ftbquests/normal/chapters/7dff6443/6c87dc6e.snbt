@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.5d,
+	dependencies: [
+		"81ad2944"
+	],
+	tasks: [{
+		uid: "c3cba7da",
+		type: "item",
+		items: [{
+			item: "gregtechmod:hv_transformer"
+		}]
+	}]
+}

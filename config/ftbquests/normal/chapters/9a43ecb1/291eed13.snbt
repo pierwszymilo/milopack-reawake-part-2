@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 7.0d,
+	shape: "gear",
+	dependencies: [
+		"b49e7036",
+		"95d32ec8"
+	],
+	tasks: [{
+		uid: "d1970834",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontroller"
+		}]
+	}]
+}

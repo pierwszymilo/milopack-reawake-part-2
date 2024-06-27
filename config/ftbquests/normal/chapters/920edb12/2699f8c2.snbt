@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -6.5d,
+	dependencies: [
+		"7b9b1b9c"
+	],
+	tasks: [{
+		uid: "7b90fff2",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_standard_machine_casing"
+		}]
+	}]
+}

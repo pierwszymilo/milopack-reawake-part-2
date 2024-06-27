@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 9.0d,
+	dependencies: [
+		"b040e2e9"
+	],
+	tasks: [{
+		uid: "33bffbf7",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcore"
+		}]
+	}]
+}

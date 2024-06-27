@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	shape: "gear",
+	dependencies: [
+		"974ecd1e",
+		"c62a62e3"
+	],
+	tasks: [{
+		uid: "85e7facb",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_advanced_machine_casing"
+		}]
+	}]
+}

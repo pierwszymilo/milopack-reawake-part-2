@@ -1,0 +1,7 @@
+{
+	title: "Advanced Machinery",
+	icon: "gregtechmod:data_control_circuit",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

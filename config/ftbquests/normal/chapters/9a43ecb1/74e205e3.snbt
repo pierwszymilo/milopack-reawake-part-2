@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: 9.0d,
+	dependencies: [
+		"0fcf7526"
+	],
+	tasks: [{
+		uid: "39394fb2",
+		type: "item",
+		items: [{
+			id: "ic2:overclocked_heat_vent",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

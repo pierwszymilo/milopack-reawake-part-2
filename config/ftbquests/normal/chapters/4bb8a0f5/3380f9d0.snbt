@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	dependencies: [
+		"3e633557",
+		"80807485"
+	],
+	tasks: [{
+		uid: "3b683bae",
+		type: "item",
+		items: [{
+			item: "ic2:iridium_reflector"
+		}]
+	}]
+}

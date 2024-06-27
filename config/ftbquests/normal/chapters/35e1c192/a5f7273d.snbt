@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 2.5d,
+	dependencies: [
+		"5d8e9a73"
+	],
+	tasks: [{
+		uid: "462c6ba1",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:range_addon 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

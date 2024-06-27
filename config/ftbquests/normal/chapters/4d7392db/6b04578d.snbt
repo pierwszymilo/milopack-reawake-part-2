@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 16.0d,
+	dependencies: [
+		"f904778c"
+	],
+	tasks: [{
+		uid: "b75f1078",
+		type: "item",
+		items: [{
+			item: "thaumcraft:matrix_speed"
+		}]
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Heavy industry",
+	x: -3.0d,
+	y: 1.5d,
+	description: "The Coke - not the yummy one",
+	text: [
+		"The Coke Oven works really simply:",
+		"1. You build the 3x3x3 hollow cube",
+		"2. You put in shit ton of coal",
+		"3. You get a shit ton of coal coke"
+	],
+	dependencies: [
+		"8c70e6d8"
+	],
+	tasks: [{
+		uid: "47b09964",
+		type: "item",
+		items: [{
+			item: "railcraft:coke_oven"
+		}],
+		count: 26L
+	}],
+	rewards: [{
+		uid: "cc269944",
+		type: "item",
+		item: "minecraft:bucket",
+		count: 4
+	}]
+}

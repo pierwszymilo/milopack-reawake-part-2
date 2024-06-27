@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: 5.5d,
+	dependencies: [
+		"b49e7036"
+	],
+	tasks: [{
+		uid: "57f90658",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorpowertaprf"
+		}]
+	}]
+}

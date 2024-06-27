@@ -1,0 +1,37 @@
+{
+	title: "Looks simple...",
+	x: 8.0d,
+	y: -1.5d,
+	description: "but may the look not decieve you,it's some serious stuff.",
+	text: [
+		"The controller - heart of the smeltery. ",
+		"",
+		"You can change which metal or alloy currently inside the smeltery will be outputed.",
+		"",
+		"Crazy,right?",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"...i was crazy once."
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "50d99de4",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "bb868615",
+		type: "item",
+		item: "minecraft:lava_bucket"
+	}]
+}

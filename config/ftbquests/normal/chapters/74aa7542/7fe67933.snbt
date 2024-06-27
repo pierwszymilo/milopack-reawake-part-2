@@ -1,0 +1,25 @@
+{
+	title: "Precise work",
+	x: -2.0d,
+	y: 7.5d,
+	description: "Adding some detailing to your buildings",
+	text: [
+		"Now your base can have some more shaping!"
+	],
+	dependencies: [
+		"4c8d3cf9"
+	],
+	tasks: [{
+		uid: "1a58f3f7",
+		type: "item",
+		items: [{
+			item: "architecturecraft:sawbench"
+		}]
+	}],
+	rewards: [{
+		uid: "57beda57",
+		type: "item",
+		item: "minecraft:log",
+		count: 16
+	}]
+}

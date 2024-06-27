@@ -1,0 +1,28 @@
+{
+	x: -3.0d,
+	y: 21.5d,
+	dependencies: [
+		"dfc9f8f9",
+		"017ffd7c",
+		"1887b618"
+	],
+	tasks: [{
+		uid: "4b17c0e2",
+		type: "item",
+		items: [{
+			id: "thaumcraft:primal_crusher",
+			tag: {
+				infench: [{
+					id: 1s,
+					lvl: 1s
+				},
+				{
+					id: 4s,
+					lvl: 1s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

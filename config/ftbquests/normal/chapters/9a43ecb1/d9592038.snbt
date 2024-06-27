@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"61f39218"
+	],
+	tasks: [{
+		uid: "65562b21",
+		type: "item",
+		items: [{
+			id: "gregtechmod:coolant_helium_60k",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

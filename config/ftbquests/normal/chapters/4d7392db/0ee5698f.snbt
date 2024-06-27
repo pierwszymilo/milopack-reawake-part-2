@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "53d709b0",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "aqua",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

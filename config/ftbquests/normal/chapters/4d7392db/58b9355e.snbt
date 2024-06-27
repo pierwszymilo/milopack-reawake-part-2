@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 28.0d,
+	dependencies: [
+		"d701f600",
+		"1887b618"
+	],
+	tasks: [{
+		uid: "794241ad",
+		type: "item",
+		items: [{
+			item: "thaumcraft:voidseer_charm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

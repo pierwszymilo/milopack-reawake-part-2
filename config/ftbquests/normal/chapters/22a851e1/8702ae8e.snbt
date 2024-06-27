@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	description: "Tapping time!",
+	text: [
+		""
+	],
+	dependencies: [
+		"f0ffe1d6"
+	],
+	tasks: [{
+		uid: "465cf13b",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	}]
+}

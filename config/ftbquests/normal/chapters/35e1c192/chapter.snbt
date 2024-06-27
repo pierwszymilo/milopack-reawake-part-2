@@ -1,0 +1,7 @@
+{
+	title: "These might be helpful!",
+	icon: "enderio:item_basic_capacitor 1 2",
+	always_invisible: false,
+	group: -1844520174,
+	default_quest_shape: ""
+}

@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: 7.0d,
+	dependencies: [
+		"b039774f"
+	],
+	tasks: [{
+		uid: "658555bf",
+		type: "item",
+		items: [{
+			item: "thaumcraft:potion_sprayer"
+		}]
+	}]
+}

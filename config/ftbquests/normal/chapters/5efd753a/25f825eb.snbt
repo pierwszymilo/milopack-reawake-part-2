@@ -1,0 +1,17 @@
+{
+	x: 21.5d,
+	y: 7.5d,
+	dependencies: [
+		"a7aabc70",
+		"a6e18d2a",
+		"76699ab4",
+		"9195319a"
+	],
+	tasks: [{
+		uid: "70d0d41c",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:guidancecomputer"
+		}]
+	}]
+}

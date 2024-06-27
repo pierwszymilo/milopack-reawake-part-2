@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -11.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"eb4dcbfe"
+	],
+	tasks: [{
+		uid: "c9a8ed5f",
+		type: "item",
+		items: [{
+			item: "modularmachinery:itemmodularium"
+		}]
+	}]
+}

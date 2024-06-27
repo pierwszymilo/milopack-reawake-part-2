@@ -1,0 +1,21 @@
+{
+	x: 12.0d,
+	y: 15.0d,
+	dependencies: [
+		"aa005c04"
+	],
+	tasks: [{
+		uid: "5eb8690a",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			Damage: 1s,
+			tag: {
+				Aspects: [{
+					key: "alienis",
+					amount: 10
+				}]
+			}
+		}]
+	}]
+}

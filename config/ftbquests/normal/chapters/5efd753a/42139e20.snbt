@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 8.5d,
+	dependencies: [
+		"a2e240bd"
+	],
+	tasks: [{
+		uid: "1e04e313",
+		type: "item",
+		items: [{
+			item: "libvulpes:productingot 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"7b9b1b9c"
+	],
+	tasks: [{
+		uid: "fa6d0dec",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_reinforced_machine_casing"
+		}]
+	}]
+}

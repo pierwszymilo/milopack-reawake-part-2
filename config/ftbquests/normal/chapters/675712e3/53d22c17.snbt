@@ -1,0 +1,11 @@
+{
+	x: 12.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "daacd075",
+		type: "item",
+		items: [{
+			item: "vehicle:small_engine 1 4"
+		}]
+	}]
+}

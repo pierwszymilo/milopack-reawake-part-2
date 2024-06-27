@@ -1,0 +1,37 @@
+{
+    "machine": "refinery",
+    "registryName": "refinery_distillation",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "fuelium",
+            "amount": 500
+        },
+		        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "diesel",
+            "amount": 1500
+        },
+		        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "refined_fuel",
+            "amount": 1000
+        },
+		        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "refined_oil",
+            "amount": 500
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "oil",
+            "amount": 4000
+        }
+    ]
+}

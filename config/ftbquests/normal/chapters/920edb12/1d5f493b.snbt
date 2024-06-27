@@ -1,0 +1,22 @@
+{
+	x: -14.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "36a38604",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotPlatinum"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotPlatinum"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: 20.0d,
+	dependencies: [
+		"b673542f"
+	],
+	tasks: [{
+		uid: "a95eb065",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mirror_essentia"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Arcane Workbench",
+	x: -2.5d,
+	y: 4.5d,
+	shape: "pentagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"50be2f4e"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "c6759dd6",
+		type: "observation",
+		icon: "thaumcraft:arcane_workbench",
+		match_type: "block_id",
+		match: "thaumcraft:arcane_workbench",
+		timer: 0L
+	}]
+}

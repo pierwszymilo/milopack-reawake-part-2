@@ -1,0 +1,15 @@
+{
+	title: "Magical Pollution",
+	x: 9.0d,
+	y: 24.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"14833772"
+	],
+	tasks: [{
+		uid: "2b35eecd",
+		type: "checkmark",
+		title: "Flux",
+		icon: "thaumcraft:crystal_vitium"
+	}]
+}

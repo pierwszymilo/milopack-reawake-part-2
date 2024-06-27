@@ -1,0 +1,16 @@
+{
+	title: "Place a [why-the-fuck] vanilla crafting table",
+	x: -2.5d,
+	y: 3.0d,
+	dependencies: [
+		"a56d7277"
+	],
+	tasks: [{
+		uid: "3ba32b06",
+		type: "observation",
+		icon: "minecraft:crafting_table",
+		match_type: "block_id",
+		match: "minecraft:crafting_table",
+		timer: 0L
+	}]
+}

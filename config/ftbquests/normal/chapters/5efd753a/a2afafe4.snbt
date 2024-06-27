@@ -1,0 +1,65 @@
+{
+	icon: "advancedrocketry:spaceelevatorcontroller",
+	x: 24.5d,
+	y: 10.0d,
+	dependencies: [
+		"5ba92fc1"
+	],
+	tasks: [{
+		uid: "79fe32aa",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:spaceelevatorcontroller"
+		}]
+	},
+	{
+		uid: "328aa970",
+		type: "item",
+		items: [{
+			item: "libvulpes:forgepowerinput"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e32b5d38",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_steel"
+		}],
+		count: 4L
+	},
+	{
+		uid: "a3215fc8",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_slab"
+		}],
+		count: 44L
+	},
+	{
+		uid: "86b5aa5f",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockMotor"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockMotor"
+				}
+			}
+		}]
+	},
+	{
+		uid: "d1ba4c16",
+		type: "item",
+		items: [{
+			item: "libvulpes:advstructuremachine"
+		}],
+		count: 16L
+	}]
+}

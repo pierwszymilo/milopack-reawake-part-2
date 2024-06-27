@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"10eac0ac"
+	],
+	tasks: [{
+		uid: "96451aca",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_hot_tungsten_steel"
+		}]
+	}]
+}

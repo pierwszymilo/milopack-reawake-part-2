@@ -1,0 +1,73 @@
+{
+	title: "70T Hopper",
+	icon: {
+		id: "immersiverailroading:item_rolling_stock",
+		tag: {
+			defID: "rolling_stock/freight/70t_hopper_slsf.json",
+			gauge: 1.435d
+		}
+	},
+	x: -6.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "(The weight is about 21T)",
+	text: [
+		""
+	],
+	dependencies: [
+		"4f6d1e52"
+	],
+	tasks: [{
+		uid: "a0a55047",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_plate",
+			tag: {
+				plate: 2,
+				gauge: 1.435d
+			}
+		}],
+		count: 9L
+	},
+	{
+		uid: "336fa27b",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 0,
+				raw_cast: 0b,
+				defID: "rolling_stock/freight/70t_hopper_slsf.json",
+				gauge: 1.435d
+			}
+		}]
+	},
+	{
+		uid: "b8b4bf31",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 3,
+				raw_cast: 0b,
+				defID: "rolling_stock/freight/70t_hopper_slsf.json",
+				gauge: 1.435d
+			}
+		}],
+		count: 4L
+	},
+	{
+		uid: "4444ca42",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 4,
+				raw_cast: 0b,
+				defID: "rolling_stock/freight/70t_hopper_slsf.json",
+				gauge: 1.435d
+			}
+		}],
+		count: 2L
+	}]
+}

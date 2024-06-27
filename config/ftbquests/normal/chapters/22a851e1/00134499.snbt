@@ -1,0 +1,30 @@
+{
+	title: "GOD BLESS CRAFTING STATION",
+	x: 4.0d,
+	y: -0.5d,
+	shape: "gear",
+	description: "HELL YEAH!",
+	text: [
+		"It's the perfect block,a crafting station.",
+		"",
+		"A masterpiece allowing leaving items inside for later to craft them,heck",
+		"",
+		"YOU CAN EVEN ACCESS STORAGE FROM THEM?"
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "b55c3ef9",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}],
+	rewards: [{
+		uid: "bc00b07e",
+		type: "item",
+		item: "tconstruct:tooltables",
+		count: 15
+	}]
+}

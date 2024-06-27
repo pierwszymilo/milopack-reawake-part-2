@@ -1,0 +1,11 @@
+{
+	x: 7.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "def336c3",
+		type: "item",
+		items: [{
+			item: "vehicle:fuel_drum"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 11.0d,
+	y: 6.0d,
+	dependencies: [
+		"974ecd1e",
+		"49234284"
+	],
+	tasks: [{
+		uid: "9678d74c",
+		type: "item",
+		items: [{
+			id: "gregtechmod:drill_advanced",
+			Damage: 26s,
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

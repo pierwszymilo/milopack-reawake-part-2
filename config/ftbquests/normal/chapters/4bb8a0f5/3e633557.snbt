@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"8c89d081",
+		"298238fe"
+	],
+	tasks: [{
+		uid: "40a155ec",
+		type: "item",
+		items: [{
+			id: "ic2:thick_neutron_reflector",
+			tag: {
+				advDmg: 0
+			}
+		}]
+	}]
+}

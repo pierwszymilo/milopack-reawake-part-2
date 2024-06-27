@@ -1,0 +1,26 @@
+{
+	title: "The Bronze Ratio",
+	x: -5.0d,
+	y: 5.0d,
+	shape: "gear",
+	description: "3:1",
+	text: [
+		"Mixing copper and tin in proportions 3:1 and then smelting it should give you some bronze. Instead of making a whole setup of steampunk machines you're going to make a blast furnace, allowing you to smelt iron into steel."
+	],
+	dependencies: [
+		"a463ef47",
+		"3344aa2e"
+	],
+	tasks: [{
+		uid: "6b1d0500",
+		type: "item",
+		items: [{
+			item: "ic2:ingot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "000d405b",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

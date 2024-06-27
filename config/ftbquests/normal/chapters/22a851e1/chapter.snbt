@@ -1,0 +1,69 @@
+{
+	title: "Tinkering Time!",
+	icon: {
+		id: "tconstruct:pickaxe",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"steel",
+					"steel",
+					"steel"
+				],
+				Modifiers: [
+					"leveling_mod"
+				]
+			},
+			Stats: {
+				Durability: 659,
+				HarvestLevel: 3,
+				Attack: 6.0f,
+				MiningSpeed: 7.0f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3
+			},
+			StatsOriginal: {
+				Durability: 659,
+				HarvestLevel: 3,
+				Attack: 6.0f,
+				MiningSpeed: 7.0f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3
+			},
+			Special: {
+				Categories: [
+					"harvest",
+					"aoe",
+					"tool"
+				]
+			},
+			Modifiers: [{
+				identifier: "stiff",
+				color: -5789785,
+				level: 1
+			},
+			{
+				identifier: "sharp",
+				color: -5789785,
+				level: 1
+			},
+			{
+				identifier: "leveling_mod",
+				color: 0,
+				level: 1
+			}],
+			Traits: [
+				"stiff",
+				"sharp",
+				"leveling_mod"
+			],
+			leveling: {
+				level: 0,
+				exp: 0,
+				check: 0b
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

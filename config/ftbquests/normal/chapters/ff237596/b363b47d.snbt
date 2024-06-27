@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"e9a50913"
+	],
+	tasks: [{
+		uid: "86a8384b",
+		type: "item",
+		items: [{
+			item: "gregtechmod:smalldust_platinum"
+		}]
+	}]
+}

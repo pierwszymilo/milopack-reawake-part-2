@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 15.0d,
+	dependencies: [
+		"aa005c04"
+	],
+	tasks: [{
+		uid: "ba75d14b",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			Damage: 1s,
+			tag: {
+				Aspects: [{
+					key: "vitium",
+					amount: 10
+				}]
+			}
+		}]
+	}]
+}

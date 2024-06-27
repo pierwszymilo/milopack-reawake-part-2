@@ -1,0 +1,37 @@
+{
+	title: "Grand Refinery",
+	icon: {
+		id: "modularmachinery:itemblueprint",
+		tag: {
+			dynamicmachine: "modularmachinery:refinery"
+		}
+	},
+	x: -0.5d,
+	y: -4.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	dependencies: [
+		"f8ee992e",
+		"0f673f3d",
+		"2699f8c2",
+		"65c38855",
+		"7e2e2878"
+	],
+	tasks: [{
+		uid: "f8e81e49",
+		type: "checkmark",
+		title: "Collect the materials"
+	}],
+	rewards: [{
+		uid: "c136b7a9",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:refinery"
+			}
+		}
+	}]
+}

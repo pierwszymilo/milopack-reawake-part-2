@@ -1,0 +1,25 @@
+{
+	title: "1st Tier Important Ingredient",
+	x: -1.5d,
+	y: 5.0d,
+	shape: "gear",
+	description: "You already know how useful it is",
+	text: [
+		"Nothing wouldn't even start if people didn't aquire iron at some point. Having this ingot in your hand you feel the progress. You feel thousands of people who has already used it in the past. You feel how many possibilities are opening right now."
+	],
+	dependencies: [
+		"37163e16"
+	],
+	tasks: [{
+		uid: "2e2351c8",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "a5eab720",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

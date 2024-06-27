@@ -1,0 +1,29 @@
+{
+	title: "Hole puncher",
+	x: -2.0d,
+	y: -0.5d,
+	description: "a few hits here and there..",
+	text: [
+		"And with that beautiful piece of your forging adventure,you may now make stencils for your tool parts."
+	],
+	dependencies: [
+		"730f17d6"
+	],
+	tasks: [{
+		uid: "252a23c6",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			Damage: 1s,
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

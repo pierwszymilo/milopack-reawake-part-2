@@ -1,0 +1,30 @@
+{
+	title: "Heavier industry!",
+	x: -5.0d,
+	y: 1.5d,
+	description: "You feel the determination to get some serious ingerdients",
+	text: [
+		"Blast furnace works similar to coke oven",
+		"1. You build the 3x4x3 hollow box",
+		"2. You put in a shit ton of coal coke and iron ingots",
+		"3. You get a shit ton of steel ingots"
+	],
+	dependencies: [
+		"eb7cdbf0",
+		"97e3ba75",
+		"26e3bc21"
+	],
+	tasks: [{
+		uid: "935a33f1",
+		type: "item",
+		items: [{
+			item: "railcraft:blast_furnace"
+		}],
+		count: 34L
+	}],
+	rewards: [{
+		uid: "dd0f2060",
+		type: "item",
+		item: "actuallyadditions:block_giant_chest_medium"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 17.0d,
+	dependencies: [
+		"3599badb"
+	],
+	tasks: [{
+		uid: "3f035065",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stabilizer"
+		}]
+	}]
+}

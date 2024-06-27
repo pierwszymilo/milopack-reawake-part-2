@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 10.5d,
+	dependencies: [
+		"14833772"
+	],
+	tasks: [{
+		uid: "d504eabb",
+		type: "item",
+		items: [{
+			item: "thaumcraft:vis_resonator"
+		}]
+	}]
+}

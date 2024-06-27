@@ -1,0 +1,39 @@
+{
+	title: "Grind Alchemy: ACT 2",
+	icon: "thaumcraft:candle_white",
+	x: 14.5d,
+	y: 7.0d,
+	dependencies: [
+		"d2868a8d"
+	],
+	tasks: [{
+		uid: "be42fc5d",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}]
+	},
+	{
+		uid: "c37547be",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}]
+	},
+	{
+		uid: "5356f4e1",
+		type: "item",
+		items: [{
+			item: "minecraft:web"
+		}]
+	},
+	{
+		uid: "7c050201",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

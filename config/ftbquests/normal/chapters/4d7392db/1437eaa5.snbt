@@ -1,0 +1,14 @@
+{
+	x: 9.5d,
+	y: 6.0d,
+	dependencies: [
+		"e25b09c5"
+	],
+	tasks: [{
+		uid: "f7159808",
+		type: "item",
+		items: [{
+			item: "thaumcraft:log_greatwood"
+		}]
+	}]
+}

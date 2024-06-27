@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: 11.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "2b98667e",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "permutatio",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

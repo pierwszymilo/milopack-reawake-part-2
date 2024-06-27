@@ -1,0 +1,79 @@
+{
+	x: -3.5d,
+	y: 4.0d,
+	dependencies: [
+		"b6e8b28c"
+	],
+	tasks: [{
+		uid: "a994880e",
+		type: "item",
+		title: "Hammer",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel",
+						"steel",
+						"steel"
+					],
+					Modifiers: [
+						"leveling_mod"
+					]
+				},
+				Stats: {
+					Durability: 1590,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					MiningSpeed: 7.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				StatsOriginal: {
+					Durability: 1590,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					MiningSpeed: 7.0f,
+					AttackSpeedMultiplier: 1.0f,
+					FreeModifiers: 3
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"weapon",
+						"aoe",
+						"tool"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "leveling_mod",
+					color: 0,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp",
+					"leveling_mod"
+				],
+				leveling: {
+					level: 0,
+					exp: 0,
+					check: 0b
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

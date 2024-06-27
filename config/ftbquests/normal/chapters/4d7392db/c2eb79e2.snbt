@@ -1,0 +1,17 @@
+{
+	x: 16.5d,
+	y: 12.5d,
+	shape: "pentagon",
+	dependencies: [
+		"1104affc",
+		"9a2993aa"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "62736eb2",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_thaumium"
+		}]
+	}]
+}

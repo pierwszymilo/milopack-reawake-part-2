@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 2.5d,
+	dependencies: [
+		"8931ed1b"
+	],
+	tasks: [{
+		uid: "d414241c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_accelerator"
+		}]
+	}]
+}

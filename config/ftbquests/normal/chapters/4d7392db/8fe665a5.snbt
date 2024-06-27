@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: 11.0d,
+	dependencies: [
+		"b5600cb2"
+	],
+	tasks: [{
+		uid: "38675f28",
+		type: "item",
+		items: [{
+			item: "thaumcraft:tube"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "00b3e1d3",
+		type: "item",
+		items: [{
+			item: "ic2:cutter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

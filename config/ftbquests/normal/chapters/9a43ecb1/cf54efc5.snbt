@@ -1,0 +1,14 @@
+{
+	x: 15.5d,
+	y: 12.5d,
+	dependencies: [
+		"4e4d686e"
+	],
+	tasks: [{
+		uid: "90cabe9c",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinebearing"
+		}]
+	}]
+}

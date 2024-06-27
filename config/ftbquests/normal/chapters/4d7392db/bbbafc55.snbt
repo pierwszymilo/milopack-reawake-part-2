@@ -1,0 +1,18 @@
+{
+	title: "Golem Press",
+	icon: "thaumcraft:golem_builder",
+	x: 7.0d,
+	y: 2.5d,
+	dependencies: [
+		"c3095902"
+	],
+	tasks: [{
+		uid: "75526273",
+		type: "observation",
+		title: "Build a Golem Press",
+		icon: "thaumcraft:golem_builder",
+		match_type: "block_id",
+		match: "thaumcraft:golem_builder",
+		timer: 0L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.5d,
+	y: 23.0d,
+	dependencies: [
+		"ea87a92c"
+	],
+	tasks: [{
+		uid: "be0f87cc",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cloth_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

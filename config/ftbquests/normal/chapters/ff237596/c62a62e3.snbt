@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"a93b541c",
+		"27a2cf79"
+	],
+	tasks: [{
+		uid: "4e46cb96",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_highly_advanced_machine"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: 20.5d,
+	dependencies: [
+		"2cccaf8b"
+	],
+	tasks: [{
+		uid: "cdd2f17f",
+		type: "item",
+		items: [{
+			id: "thaumcraft:elemental_pick",
+			tag: {
+				infench: [{
+					id: 4s,
+					lvl: 1s
+				},
+				{
+					id: 3s,
+					lvl: 2s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

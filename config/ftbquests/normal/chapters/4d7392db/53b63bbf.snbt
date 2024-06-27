@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: 11.0d,
+	dependencies: [
+		"96047010"
+	],
+	tasks: [{
+		uid: "cdc1c687",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "vitreus",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

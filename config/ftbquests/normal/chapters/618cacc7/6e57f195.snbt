@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 1.0d,
+	shape: "gear",
+	dependencies: [
+		"1ad3a1b2",
+		"a3611adb"
+	],
+	tasks: [{
+		uid: "46eed8e2",
+		type: "item",
+		items: [{
+			id: "ic2:re_battery",
+			tag: {
+				charge: 10000.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

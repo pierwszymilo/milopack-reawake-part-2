@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 24.5d,
+	dependencies: [
+		"2cccaf8b"
+	],
+	tasks: [{
+		uid: "aae49784",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fortress_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

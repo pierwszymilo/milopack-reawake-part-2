@@ -1,0 +1,7 @@
+{
+	title: "Trasforming Energy",
+	icon: "ic2:te 1 77",
+	always_invisible: false,
+	group: 1636609223,
+	default_quest_shape: ""
+}

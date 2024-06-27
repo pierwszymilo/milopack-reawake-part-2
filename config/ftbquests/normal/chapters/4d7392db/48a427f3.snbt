@@ -1,0 +1,16 @@
+{
+	x: 21.5d,
+	y: 11.0d,
+	dependencies: [
+		"b5600cb2"
+	],
+	tasks: [{
+		uid: "df201ce2",
+		type: "item",
+		items: [{
+			item: "thaumcraft:resonator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

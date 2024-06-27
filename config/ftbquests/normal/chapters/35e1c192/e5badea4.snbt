@@ -1,0 +1,14 @@
+{
+	x: 15.0d,
+	y: 0.5d,
+	dependencies: [
+		"d5bd01de"
+	],
+	tasks: [{
+		uid: "7bb36b18",
+		type: "item",
+		items: [{
+			item: "rftools:screen_controller"
+		}]
+	}]
+}

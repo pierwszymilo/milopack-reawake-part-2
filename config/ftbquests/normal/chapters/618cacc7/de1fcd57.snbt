@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 6.5d,
+	dependencies: [
+		"1f09a24c",
+		"ea89ecce"
+	],
+	tasks: [{
+		uid: "42a3c070",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 19"
+		}]
+	}]
+}

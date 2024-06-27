@@ -1,0 +1,27 @@
+{
+	title: "Build yourself a Golem!",
+	x: 7.0d,
+	y: 7.0d,
+	dependencies: [
+		"96047010"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "8d85a33f",
+		type: "observation",
+		title: "Build a Snow Golem",
+		icon: "minecraft:snow",
+		match_type: "entity_id",
+		match: "minecraft:snowman",
+		timer: 0L
+	},
+	{
+		uid: "691a2748",
+		type: "observation",
+		title: "Build an Iron Golem",
+		icon: "minecraft:iron_block",
+		match_type: "entity_id",
+		match: "minecraft:villager_golem",
+		timer: 0L
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "39216c06",
+		type: "item",
+		items: [{
+			item: "ic2:hazmat_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "457fe45f",
+		type: "item",
+		items: [{
+			item: "ic2:hazmat_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a3653171",
+		type: "item",
+		items: [{
+			item: "ic2:rubber_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bd60e105",
+		type: "item",
+		items: [{
+			item: "ic2:hazmat_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Adding a bit of design",
+	x: 0.0d,
+	y: 7.0d,
+	description: "We're not staying in a mud hut!",
+	text: [
+		"With this tool everything may look cool! ",
+		"Or just cooler than it looks now..."
+	],
+	dependencies: [
+		"4c8d3cf9"
+	],
+	tasks: [{
+		uid: "01f01b46",
+		type: "item",
+		items: [{
+			id: "chisel:chisel_iron",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8487fcec",
+		type: "item",
+		item: "minecraft:stone",
+		count: 64
+	}]
+}

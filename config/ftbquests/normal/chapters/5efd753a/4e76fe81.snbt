@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"2e5bd72e"
+	],
+	tasks: [{
+		uid: "72679362",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "hydrogen",
+				Amount: 1000
+			}
+		}]
+	}]
+}

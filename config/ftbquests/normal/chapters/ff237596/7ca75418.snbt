@@ -1,0 +1,32 @@
+{
+	icon: "gregtechmod:teblock 1 24",
+	x: -1.5d,
+	y: 0.0d,
+	shape: "gear",
+	dependencies: [
+		"af4b4dc5"
+	],
+	tasks: [{
+		uid: "81fcb603",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 24"
+		}]
+	},
+	{
+		uid: "112048d1",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_reinforced_machine_casing"
+		}],
+		count: 18L
+	},
+	{
+		uid: "45f42ec0",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_standard_machine_casing"
+		}],
+		count: 8L
+	}]
+}

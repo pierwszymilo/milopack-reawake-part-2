@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "d3c05d59",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					key: "ignis",
+					amount: 1
+				}]
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -9.0d,
+	y: -11.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"24f96a94",
+		"07ab8302"
+	],
+	tasks: [{
+		uid: "e132150b",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:wrench"
+		}],
+		ignore_nbt: 1b
+	}]
+}

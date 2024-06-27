@@ -1,0 +1,59 @@
+{
+	title: "Grand Rolling Machine",
+	icon: "railcraft:equipment 1 1",
+	x: 4.5d,
+	y: -3.0d,
+	description: "[the smaller one just doesn't work]",
+	text: [
+		""
+	],
+	dependencies: [
+		"7b9b1b9c"
+	],
+	tasks: [{
+		uid: "3ee67100",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcontroller"
+		}]
+	},
+	{
+		uid: "f54ae84c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockinputbus 1 5"
+		}]
+	},
+	{
+		uid: "e5c7cc85",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockoutputbus 1 4"
+		}]
+	},
+	{
+		uid: "7328b28e",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_reinforced_machine_casing"
+		}],
+		count: 8L
+	},
+	{
+		uid: "453d1d83",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockenergyinputhatch"
+		}]
+	}],
+	rewards: [{
+		uid: "73aeeb11",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:grand_roller"
+			}
+		}
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -14.0d,
+	shape: "gear",
+	dependencies: [
+		"bc42c62a",
+		"e9bc6d49"
+	],
+	tasks: [{
+		uid: "181a25e9",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_farmer"
+		}]
+	}]
+}

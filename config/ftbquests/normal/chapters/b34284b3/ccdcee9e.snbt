@@ -1,0 +1,21 @@
+{
+	x: 7.446938775510191d,
+	y: 4.379251700680264d,
+	text: [
+		""
+	],
+	dependencies: [
+		"14f19e3d",
+		"9c0949f3"
+	],
+	tasks: [{
+		uid: "941d9eae",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_terminal",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

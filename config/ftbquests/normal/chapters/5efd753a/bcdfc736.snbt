@@ -1,0 +1,63 @@
+{
+	icon: "advancedrocketry:biomescanner",
+	x: 23.5d,
+	y: 6.0d,
+	dependencies: [
+		"25f825eb"
+	],
+	tasks: [{
+		uid: "4987367f",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:biomescanner"
+		}]
+	},
+	{
+		uid: "518ac074",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockMotor"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockMotor"
+				}
+			}
+		}]
+	},
+	{
+		uid: "1fe5f585",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_aluminium"
+		}],
+		count: 16L
+	},
+	{
+		uid: "4edc4a6c",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}]
+	},
+	{
+		uid: "356896ec",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}],
+		count: 4L
+	},
+	{
+		uid: "6a353263",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone_block"
+		}]
+	}]
+}

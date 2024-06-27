@@ -1,0 +1,148 @@
+{
+	title: "Service set",
+	x: 6.0d,
+	y: 8.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "df0ac453",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolScrewdriver"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolScrewdriver"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fad23b9b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolWrench"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolWrench"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a5a50bc1",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolSoftHammer"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolSoftHammer"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d713b80",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolHardHammer"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolHardHammer"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d100fc96",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolCrowbar"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolCrowbar"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "468b916f",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolSolderingMetal"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolSolderingMetal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "26490ee6",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolSolderingIron"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolSolderingIron"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

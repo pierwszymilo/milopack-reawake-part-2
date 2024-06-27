@@ -1,0 +1,19 @@
+{
+	title: "Oh.",
+	x: 0.0d,
+	y: -2.0d,
+	description: "You have too much patterns.",
+	text: [
+		"Not a problem,shove them into this little one and you're off to go!"
+	],
+	dependencies: [
+		"730f17d6"
+	],
+	tasks: [{
+		uid: "1989ffc7",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	}]
+}

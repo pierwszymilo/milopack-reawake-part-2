@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: 8.5d,
+	dependencies: [
+		"a7aabc70"
+	],
+	tasks: [{
+		uid: "2e3e4584",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:fuelingstation"
+		}]
+	}]
+}

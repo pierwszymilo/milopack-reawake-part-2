@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"5c654655",
+		"3f6094cd"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "3a5697c7",
+		type: "item",
+		items: [{
+			item: "enderio:block_slice_and_splice"
+		}]
+	}]
+}

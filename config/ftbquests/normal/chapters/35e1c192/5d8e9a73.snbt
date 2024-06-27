@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 0.5d,
+	dependencies: [
+		"e657c602"
+	],
+	tasks: [{
+		uid: "4e58a2be",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:plastic"
+		}]
+	}]
+}

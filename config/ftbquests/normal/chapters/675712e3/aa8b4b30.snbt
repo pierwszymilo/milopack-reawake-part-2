@@ -1,0 +1,151 @@
+{
+	title: "SW1500",
+	icon: {
+		id: "immersiverailroading:item_rolling_stock",
+		tag: {
+			defID: "rolling_stock/locomotives/emd_sw1500.json",
+			gauge: 1.435d
+		}
+	},
+	x: -6.0d,
+	y: 1.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	dependencies: [
+		"e64723c1",
+		"4f6d1e52",
+		"39575460"
+	],
+	tasks: [{
+		uid: "296b23cf",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 19,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}],
+		count: 12L
+	},
+	{
+		uid: "fc97f61b",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_plate",
+			tag: {
+				plate: 2,
+				gauge: 1.435d
+			}
+		}],
+		count: 9L
+	},
+	{
+		uid: "b7156a5f",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_plate",
+			tag: {
+				plate: 1,
+				gauge: 1.435d
+			}
+		}],
+		count: 4L
+	},
+	{
+		uid: "57f918cf",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_plate",
+			tag: {
+				plate: 0,
+				gauge: 1.435d
+			}
+		}],
+		count: 3L
+	},
+	{
+		uid: "3ab3c731",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 17,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}]
+	},
+	{
+		uid: "eae4c20f",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 16,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}]
+	},
+	{
+		uid: "dc894a8c",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 18,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}]
+	},
+	{
+		uid: "a0384ff8",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 0,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}]
+	},
+	{
+		uid: "897e65a8",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 4,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}],
+		count: 2L
+	},
+	{
+		uid: "1179b3fd",
+		type: "item",
+		items: [{
+			id: "immersiverailroading:item_rolling_stock_component",
+			tag: {
+				componentType: 3,
+				raw_cast: 0b,
+				defID: "rolling_stock/locomotives/emd_sw1500.json",
+				gauge: 1.435d
+			}
+		}],
+		count: 4L
+	}]
+}

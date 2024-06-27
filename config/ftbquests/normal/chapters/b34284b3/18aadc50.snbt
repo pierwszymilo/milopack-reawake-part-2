@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	dependencies: [
+		"bccd9089"
+	],
+	tasks: [{
+		uid: "ab8f7a29",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:network_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

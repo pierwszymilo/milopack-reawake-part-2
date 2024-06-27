@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	description: "Cobblestone - because you need to start from something",
+	text: [
+		"You're not going to start with a futuristic cleanroom of course"
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "dec3435e",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	}],
+	rewards: [{
+		uid: "5f005a11",
+		type: "item",
+		item: "minecraft:log",
+		count: 4
+	}]
+}

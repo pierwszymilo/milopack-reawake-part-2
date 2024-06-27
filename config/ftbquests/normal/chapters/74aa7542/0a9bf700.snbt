@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	description: "Simple wooden constructions",
+	text: [
+		"You don't even know if it counts as technology"
+	],
+	dependencies: [
+		"108ee877"
+	],
+	tasks: [{
+		uid: "6af1068e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "f09b4428",
+		type: "item",
+		item: "ironchest:iron_chest"
+	}]
+}

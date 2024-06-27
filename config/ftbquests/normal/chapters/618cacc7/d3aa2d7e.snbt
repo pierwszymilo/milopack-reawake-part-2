@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	dependencies: [
+		"3b6aae55"
+	],
+	tasks: [{
+		uid: "1f65ae69",
+		type: "item",
+		items: [{
+			item: "ic2:misc_resource 1 4"
+		}]
+	}]
+}

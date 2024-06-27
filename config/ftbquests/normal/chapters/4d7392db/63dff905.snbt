@@ -1,0 +1,19 @@
+{
+	x: 13.5d,
+	y: 19.0d,
+	dependencies: [
+		"27d5e43c"
+	],
+	tasks: [{
+		uid: "87ec6f88",
+		type: "item",
+		items: [{
+			id: "thaumcraft:verdant_charm",
+			tag: {
+				type: 2b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

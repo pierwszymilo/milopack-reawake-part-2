@@ -1,0 +1,15 @@
+{
+	x: 9.5d,
+	y: -2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"80c42e34"
+	],
+	tasks: [{
+		uid: "9970568f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_stone_block"
+		}]
+	}]
+}
