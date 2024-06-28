@@ -1,0 +1,457 @@
+{
+	"dependencies": "gregtechmod",
+	"populate": {
+		"bauxite vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"gregtechmod:bauxite_ore",
+					"weight": 60
+				},
+				{
+					"name":"libvulpes:ore0",
+					"metadata": 8,
+					"weight": 40
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 20,
+			"max-height": 60,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"certus quartz vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"appliedenergistics2:quartz_ore",
+					"weight": 75
+				},
+				{
+					"name":"appliedenergistics2:charged_quartz_ore",
+					"weight": 25
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 10,
+			"max-height": 60,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"coal vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "minecraft:coal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 200
+			},
+			"cluster-count": 2,
+			"min-height": 30,
+			"max-height": 100,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"copper vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"ic2:resource",
+					"metadata": 1,
+					"weight": 60
+				},
+				{
+					"name":"minecraft:gold_ore",
+					"weight": 20
+				},
+				{
+					"name":"gregtechmod:tetrahedrite_ore",
+					"weight": 20
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 120
+			},
+			"cluster-count": 1,
+			"min-height": 30,
+			"max-height": 64,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"diamond vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "minecraft:diamond_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 20,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dilithium vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "libvulpes:ore0",
+				"metadata": 0,
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 30,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"emerald vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "minecraft:emerald_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 20,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"iridium vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "gregtechmod:iridium_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 30,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"iron vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"minecraft:iron_ore",
+					"weight": 60
+				},
+				{
+					"name":"thermalfoundation:ore",
+					"metadata": 5,
+					"weight": 40
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 200
+			},
+			"cluster-count": 1,
+			"min-height": 20,
+			"max-height": 80,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"lapis vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"minecraft:lapis_ore",
+					"weight": 70
+				},
+				{
+					"name":"gregtechmod:sapphire_ore",
+					"weight": 30
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 24,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"galena vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"ic2:resource",
+					"metadata": 2,
+					"weight": 40
+				},
+				{
+					"name":"thermalfoundation:ore",
+					"metadata": 2,
+					"weight": 40
+				},
+				{
+					"name":"gregtechmod:galena_ore",
+					"weight": 20
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 30,
+			"max-height": 64,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"nether quartz vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"thaumcraft:ore_quartz",
+					"weight": 60
+				},
+				{
+					"name":"actuallyadditions:block_misc",
+					"metadata": 3,
+					"weight": 40
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 10,
+			"max-height": 60,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"redstone vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"minecraft:redstone_ore",
+					"weight": 60
+				},
+				{
+					"name":"gregtechmod:ruby_ore",
+					"weight": 30
+				},
+				{
+					"name":"thaumcraft:ore_cinnabar",
+					"weight": 10
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 140
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 40,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tin vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"ic2:resource",
+					"metadata": 3,
+					"weight": 80
+				},
+				{
+					"name":"gregtechmod:cassiterite_ore",
+					"weight": 20
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 140
+			},
+			"cluster-count": 1,
+			"min-height": 10,
+			"max-height": 70,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"uranium vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": [
+				{
+					"name":"ic2:resource",
+					"metadata": 4,
+					"weight": 50
+				},
+				{
+					"name":"bigreactors:oreyellorite",
+					"metadata": 3,
+					"weight": 50
+				}
+				]
+				"material": "minecraft:stone",
+				"cluster-size": 120
+			},
+			"cluster-count": 1,
+			"min-height": 10,
+			"max-height": 60,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"sphalerite vein": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "cluster",
+				"block": "gregtechmod:sphalerite_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 30,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		
+		
+	}
+	
+		
+}
