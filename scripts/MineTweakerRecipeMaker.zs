@@ -12,6 +12,11 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<enderio:item_material>);
+recipes.remove(<enderio:item_material:1>);
+recipes.remove(<thermalexpansion:frame>);
+recipes.remove(<grapplemod:rocketupgradeitem>);
+recipes.remove(<grapplemod:limitsupgradeitem>);
 recipes.remove(<gregtechmod:gear_bronze:*>);
 recipes.remove(<gregtechmod:gear_steel:*>);
 recipes.remove(<gregtechmod:gear_iron:*>);
@@ -37,6 +42,9 @@ recipes.remove(<bigreactors:reactorcasing> * 4);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<enderio:item_material>, [[<ore:dustBedrock>, <enderio:block_dark_iron_bars>, <ore:dustBedrock>], [<enderio:block_dark_iron_bars>, <gregtechmod:hull_titanium>, <enderio:block_dark_iron_bars>], [<ore:dustBedrock>, <enderio:block_dark_iron_bars>, <ore:dustBedrock>]]);
+recipes.addShaped(<enderio:item_material:1>, [[<ore:ingotDarkSteel>, <ore:craftingCircuitTier07>, <ore:ingotDarkSteel>], [<ore:dyeMachine>, <ore:itemSimpleMachineChassi>, <enderio:item_material:51>], [<ore:ingotDarkSteel>, <ore:dyeMachine>, <ore:ingotDarkSteel>]]);
+recipes.addShaped(<thermalexpansion:frame>, [[<ore:ingotTin>, <ore:blockGlassHardened>, <ore:ingotTin>], [<ore:blockGlassHardened>, <ore:gearPlatinum>, <ore:blockGlassHardened>], [<ore:ingotTin>, <ore:blockGlassHardened>, <ore:ingotTin>]]);
 recipes.addShaped(<gregtechmod:gear_iridium>, [[null, <gregtechmod:ingot_iridium>, null], [<gregtechmod:ingot_iridium>, null, <ore:ingotIridium>], [null, <ore:ingotIridium>, null]]);
 recipes.addShaped(<gregtechmod:gear_tungsten_steel>, [[null, <gregtechmod:ingot_tungsten_steel>, null], [<gregtechmod:ingot_tungsten_steel>, null, <ore:ingotTungstenSteel>], [null, <ore:ingotTungstenSteel>, null]]);
 recipes.addShaped(<gregtechmod:gear_titanium>, [[null, <gregtechmod:ingot_titanium>, null], [<gregtechmod:ingot_titanium>, null, <ore:ingotTitanium>], [null, <ore:ingotTitanium>, null]]);
