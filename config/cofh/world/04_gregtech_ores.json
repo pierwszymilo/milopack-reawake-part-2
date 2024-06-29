@@ -17,7 +17,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 20,
@@ -47,7 +47,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 10,
@@ -68,7 +68,7 @@
 				"type": "cluster",
 				"block": "minecraft:coal_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 180
+				"cluster-size": 30
 			},
 			"cluster-count": 2,
 			"min-height": 30,
@@ -103,7 +103,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 100
+				"cluster-size": 30
 			},
 			"cluster-count": 1,
 			"min-height": 30,
@@ -124,7 +124,7 @@
 				"type": "cluster",
 				"block": "minecraft:diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -146,7 +146,7 @@
 				"block": "libvulpes:ore0",
 				"metadata": 0,
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -167,7 +167,7 @@
 				"type": "cluster",
 				"block": "minecraft:emerald_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -188,7 +188,7 @@
 				"type": "cluster",
 				"block": "gregtechmod:iridium_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -219,7 +219,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 180
+				"cluster-size": 30
 			},
 			"cluster-count": 1,
 			"min-height": 20,
@@ -249,7 +249,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -285,7 +285,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 30
 			},
 			"cluster-count": 1,
 			"min-height": 30,
@@ -316,7 +316,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 10,
@@ -350,7 +350,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 120
+				"cluster-size": 30
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -381,7 +381,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 120
+				"cluster-size": 30
 			},
 			"cluster-count": 1,
 			"min-height": 10,
@@ -413,7 +413,7 @@
 				}
 				]
 				"material": "minecraft:stone",
-				"cluster-size": 100
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 10,
@@ -434,7 +434,7 @@
 				"type": "cluster",
 				"block": "gregtechmod:sphalerite_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 80
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"min-height": 2,
