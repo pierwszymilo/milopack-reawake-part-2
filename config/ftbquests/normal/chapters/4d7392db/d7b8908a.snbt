@@ -11,8 +11,8 @@
 			id: "thaumcraft:elemental_sword",
 			tag: {
 				infench: [{
-					id: 5s,
-					lvl: 2s
+					lvl: 2s,
+					id: 5s
 				}]
 			}
 		}],

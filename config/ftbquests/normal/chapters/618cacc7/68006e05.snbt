@@ -11,10 +11,21 @@
 		type: "item",
 		items: [{
 			id: "ic2:energy_crystal",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c06185c6",
+		type: "item",
+		item: {
+			id: "ic2:re_battery",
+			tag: {
+				charge: 10000.0d
+			}
+		},
+		count: 2
 	}]
 }

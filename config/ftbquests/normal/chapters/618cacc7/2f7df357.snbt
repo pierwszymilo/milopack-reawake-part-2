@@ -11,5 +11,11 @@
 		items: [{
 			item: "ic2:resource 1 12"
 		}]
+	}],
+	rewards: [{
+		uid: "4798021b",
+		type: "item",
+		item: "gregtechmod:plate_steel",
+		count: 4
 	}]
 }

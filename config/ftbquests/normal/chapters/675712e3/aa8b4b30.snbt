@@ -24,10 +24,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 19,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 19,
+				raw_cast: 0b
 			}
 		}],
 		count: 12L
@@ -38,8 +38,8 @@
 		items: [{
 			id: "immersiverailroading:item_plate",
 			tag: {
-				plate: 2,
-				gauge: 1.435d
+				gauge: 1.435d,
+				plate: 2
 			}
 		}],
 		count: 9L
@@ -50,8 +50,8 @@
 		items: [{
 			id: "immersiverailroading:item_plate",
 			tag: {
-				plate: 1,
-				gauge: 1.435d
+				gauge: 1.435d,
+				plate: 1
 			}
 		}],
 		count: 4L
@@ -62,8 +62,8 @@
 		items: [{
 			id: "immersiverailroading:item_plate",
 			tag: {
-				plate: 0,
-				gauge: 1.435d
+				gauge: 1.435d,
+				plate: 0
 			}
 		}],
 		count: 3L
@@ -74,10 +74,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 17,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 17,
+				raw_cast: 0b
 			}
 		}]
 	},
@@ -87,10 +87,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 16,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 16,
+				raw_cast: 0b
 			}
 		}]
 	},
@@ -100,10 +100,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 18,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 18,
+				raw_cast: 0b
 			}
 		}]
 	},
@@ -113,10 +113,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 0,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 0,
+				raw_cast: 0b
 			}
 		}]
 	},
@@ -126,10 +126,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 4,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 4,
+				raw_cast: 0b
 			}
 		}],
 		count: 2L
@@ -140,10 +140,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 3,
-				raw_cast: 0b,
 				defID: "rolling_stock/locomotives/emd_sw1500.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 3,
+				raw_cast: 0b
 			}
 		}],
 		count: 4L

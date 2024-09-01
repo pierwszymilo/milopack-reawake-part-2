@@ -6,16 +6,16 @@
 		type: "item",
 		icon: "ic2:plate 1 8",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plateTin",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any plateTin"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "plateTin"
 				}
 			}
 		}]

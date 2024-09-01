@@ -13,10 +13,10 @@
 		type: "item",
 		items: [{
 			id: "enderio:item_soul_vial",
-			Damage: 1s,
 			tag: {
 				entityId: "minecraft:enderman"
-			}
+			},
+			Damage: 1s
 		}]
 	}]
 }

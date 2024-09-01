@@ -32,6 +32,38 @@
 		item: {
 			id: "tconstruct:hatchet",
 			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 160,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				display: {
+					Name: "Primitive stone hatchet"
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 128,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"weapon",
+						"aoe"
+					]
+				},
+				leveling: {
+					level: 0,
+					check: 0b,
+					exp: 0
+				},
 				TinkerData: {
 					Materials: [
 						"wood",
@@ -40,30 +72,6 @@
 					],
 					Modifiers: [
 						"leveling_mod"
-					]
-				},
-				Stats: {
-					Durability: 128,
-					HarvestLevel: 1,
-					Attack: 3.5f,
-					MiningSpeed: 4.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				StatsOriginal: {
-					Durability: 160,
-					HarvestLevel: 1,
-					Attack: 3.5f,
-					MiningSpeed: 4.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				Special: {
-					Categories: [
-						"tool",
-						"harvest",
-						"weapon",
-						"aoe"
 					]
 				},
 				Modifiers: [{
@@ -85,15 +93,7 @@
 					"ecological",
 					"cheapskate",
 					"leveling_mod"
-				],
-				leveling: {
-					level: 0,
-					exp: 0,
-					check: 0b
-				},
-				display: {
-					Name: "Primitive stone hatchet"
-				}
+				]
 			}
 		}
 	},
@@ -107,50 +107,50 @@
 					tconstruct: {
 						id: "tconstruct:book",
 						Count: 1b,
-						Damage: 0s,
 						tag: {
 							"akashictome:definedMod": "tconstruct"
-						}
-					},
-					conarm: {
-						id: "conarm:book",
-						Count: 1b,
-						Damage: 0s,
-						tag: {
-							"akashictome:definedMod": "conarm"
-						}
-					},
-					cfm: {
-						id: "cfm:item_recipe_book",
-						Count: 1b,
-						Damage: 0s,
-						tag: {
-							"akashictome:definedMod": "cfm"
-						}
+						},
+						Damage: 0s
 					},
 					buildcraftlib: {
 						id: "buildcraftlib:guide",
 						Count: 1b,
-						Damage: 0s,
 						tag: {
 							"akashictome:definedMod": "buildcraftlib"
-						}
+						},
+						Damage: 0s
+					},
+					conarm: {
+						id: "conarm:book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "conarm"
+						},
+						Damage: 0s
 					},
 					actuallyadditions: {
 						id: "actuallyadditions:item_booklet",
 						Count: 1b,
-						Damage: 0s,
 						tag: {
 							"akashictome:definedMod": "actuallyadditions"
-						}
+						},
+						Damage: 0s
+					},
+					cfm: {
+						id: "cfm:item_recipe_book",
+						Count: 1b,
+						tag: {
+							"akashictome:definedMod": "cfm"
+						},
+						Damage: 0s
 					},
 					rftools: {
 						id: "rftools:rftools_manual",
 						Count: 1b,
-						Damage: 0s,
 						tag: {
 							"akashictome:definedMod": "rftools"
-						}
+						},
+						Damage: 0s
 					}
 				}
 			}

@@ -16,16 +16,16 @@
 		uid: "518ac074",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockMotor",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockMotor"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "blockMotor"
 				}
 			}
 		}]

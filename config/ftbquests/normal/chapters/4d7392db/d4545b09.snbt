@@ -14,8 +14,8 @@
 		icon: {
 			id: "thermalexpansion:morb",
 			tag: {
-				id: "thaumcraft:cultistportallesser",
-				Generic: 1b
+				Generic: 1b,
+				id: "thaumcraft:cultistportallesser"
 			}
 		},
 		match_type: "entity_id",

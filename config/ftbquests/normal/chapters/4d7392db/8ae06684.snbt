@@ -8,8 +8,8 @@
 			id: "thaumcraft:crystal_essence",
 			tag: {
 				Aspects: [{
-					key: "perditio",
-					amount: 1
+					amount: 1,
+					key: "perditio"
 				}]
 			}
 		}]

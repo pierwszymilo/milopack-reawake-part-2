@@ -12,5 +12,16 @@
 		items: [{
 			item: "gregtechmod:teblock 1 20"
 		}]
+	}],
+	rewards: [{
+		uid: "4315bda0",
+		type: "item",
+		item: {
+			id: "ic2:heat_storage",
+			tag: {
+				advDmg: 0
+			}
+		},
+		count: 6
 	}]
 }

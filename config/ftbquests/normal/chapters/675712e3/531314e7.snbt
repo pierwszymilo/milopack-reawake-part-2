@@ -10,9 +10,9 @@
 		items: [{
 			id: "immersiverailroading:item_cast_rail",
 			tag: {
+				gauge: 1.435d,
 				componentType: 0,
-				raw_cast: 1b,
-				gauge: 1.435d
+				raw_cast: 1b
 			}
 		}]
 	}]

@@ -1,7 +1,7 @@
 {
 	title: "*boing*",
-	x: 4.0d,
-	y: 1.0d,
+	x: 1.0d,
+	y: 3.5d,
 	description: "Fall damage is no longer scary.",
 	text: [
 		"As simple as that,use some slimes",

@@ -11,12 +11,12 @@
 			id: "thaumcraft:elemental_axe",
 			tag: {
 				infench: [{
-					id: 2s,
-					lvl: 1s
+					lvl: 1s,
+					id: 2s
 				},
 				{
-					id: 0s,
-					lvl: 1s
+					lvl: 1s,
+					id: 0s
 				}]
 			}
 		}],

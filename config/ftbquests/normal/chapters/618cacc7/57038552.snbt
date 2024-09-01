@@ -1,7 +1,11 @@
 {
+	title: "NanoSuit",
 	x: -3.5d,
 	y: -0.5d,
 	shape: "gear",
+	text: [
+		""
+	],
 	dependencies: [
 		"68006e05",
 		"78d03219",
@@ -12,8 +16,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_helmet",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -23,8 +27,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_chestplate",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -34,8 +38,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_leggings",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -45,10 +49,16 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_boots",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e79ba0e9",
+		type: "item",
+		item: "ic2:crafting 1 2",
+		count: 2
 	}]
 }

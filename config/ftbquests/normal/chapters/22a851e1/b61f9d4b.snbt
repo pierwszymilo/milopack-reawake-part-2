@@ -24,6 +24,33 @@
 		items: [{
 			id: "tconstruct:cleaver",
 			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1318,
+					HarvestLevel: 3,
+					Attack: 10.799999f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1318,
+					HarvestLevel: 3,
+					Attack: 10.799999f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				leveling: {
+					level: 0,
+					check: 0b,
+					exp: 0
+				},
 				TinkerData: {
 					Materials: [
 						"steel",
@@ -34,28 +61,6 @@
 					Modifiers: [
 						"beheading_cleaver",
 						"leveling_mod"
-					]
-				},
-				Stats: {
-					Durability: 1318,
-					HarvestLevel: 3,
-					Attack: 10.799999f,
-					MiningSpeed: 7.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				StatsOriginal: {
-					Durability: 1318,
-					HarvestLevel: 3,
-					Attack: 10.799999f,
-					MiningSpeed: 7.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				Special: {
-					Categories: [
-						"weapon",
-						"tool"
 					]
 				},
 				Modifiers: [{
@@ -82,12 +87,7 @@
 					"stiff",
 					"sharp",
 					"leveling_mod"
-				],
-				leveling: {
-					level: 0,
-					exp: 0,
-					check: 0b
-				}
+				]
 			}
 		}],
 		ignore_damage: true,

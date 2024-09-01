@@ -10,5 +10,18 @@
 		items: [{
 			item: "gregtechmod:teblock 1 18"
 		}]
+	}],
+	rewards: [{
+		uid: "4e927ff5",
+		type: "item",
+		item: {
+			id: "ic2:cable",
+			tag: {
+				type: 2b,
+				insulation: 2b
+			},
+			Damage: 2s
+		},
+		count: 8
 	}]
 }

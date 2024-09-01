@@ -4,8 +4,8 @@
 		id: "thaumcraft:crystal_essence",
 		tag: {
 			Aspects: [{
-				key: "praecantatio",
-				amount: 1
+				amount: 1,
+				key: "praecantatio"
 			}]
 		}
 	},

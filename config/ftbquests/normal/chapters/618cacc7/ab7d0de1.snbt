@@ -11,5 +11,11 @@
 		items: [{
 			item: "ic2:te 1 47"
 		}]
+	}],
+	rewards: [{
+		uid: "8b1397d7",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 16
 	}]
 }

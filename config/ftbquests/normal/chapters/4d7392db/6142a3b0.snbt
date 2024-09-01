@@ -13,12 +13,12 @@
 			id: "thaumcraft:primal_crusher",
 			tag: {
 				infench: [{
-					id: 1s,
-					lvl: 1s
+					lvl: 1s,
+					id: 1s
 				},
 				{
-					id: 4s,
-					lvl: 1s
+					lvl: 1s,
+					id: 4s
 				}]
 			}
 		}],

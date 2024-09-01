@@ -1,7 +1,7 @@
 {
 	title: "Stampling parts!",
-	x: 2.0d,
-	y: -0.5d,
+	x: 0.0d,
+	y: 2.0d,
 	description: "Flint is sharp but wood is more durable",
 	text: [
 		"So the parts like tool head should be made from the sharper material and the parts like tool rods should be made from something more durable"
@@ -14,8 +14,8 @@
 		type: "item",
 		items: [{
 			id: "tconstruct:tooltables",
-			Damage: 2s,
-			tag: {}
+			tag: {},
+			Damage: 2s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 2b

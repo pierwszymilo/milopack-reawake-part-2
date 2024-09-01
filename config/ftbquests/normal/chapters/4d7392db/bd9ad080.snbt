@@ -4,8 +4,8 @@
 		id: "thaumcraft:crystal_essence",
 		tag: {
 			Aspects: [{
-				key: "auram",
-				amount: 1
+				amount: 1,
+				key: "auram"
 			}]
 		}
 	},

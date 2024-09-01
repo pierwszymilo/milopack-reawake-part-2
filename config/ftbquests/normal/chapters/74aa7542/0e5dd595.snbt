@@ -1,7 +1,7 @@
 {
 	title: "Adding a bit of design",
-	x: 0.0d,
-	y: 7.0d,
+	x: 1.5d,
+	y: 7.5d,
 	description: "We're not staying in a mud hut!",
 	text: [
 		"With this tool everything may look cool! ",

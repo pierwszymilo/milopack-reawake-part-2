@@ -11,8 +11,8 @@
 			id: "thaumcraft:elemental_shovel",
 			tag: {
 				infench: [{
-					id: 1s,
-					lvl: 1s
+					lvl: 1s,
+					id: 1s
 				}]
 			}
 		}],

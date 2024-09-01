@@ -8,8 +8,8 @@
 			id: "thaumcraft:crystal_essence",
 			tag: {
 				Aspects: [{
-					key: "ignis",
-					amount: 1
+					amount: 1,
+					key: "ignis"
 				}]
 			}
 		}]

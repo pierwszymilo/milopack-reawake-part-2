@@ -9,13 +9,13 @@
 		type: "item",
 		items: [{
 			id: "thaumcraft:phial",
-			Damage: 1s,
 			tag: {
 				Aspects: [{
-					key: "vinculum",
-					amount: 10
+					amount: 10,
+					key: "vinculum"
 				}]
-			}
+			},
+			Damage: 1s
 		}]
 	}]
 }

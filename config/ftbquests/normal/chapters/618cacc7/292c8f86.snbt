@@ -11,5 +11,19 @@
 		items: [{
 			item: "ic2:te 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "dad6ef70",
+		type: "item",
+		item: {
+			id: "ic2:fluid_cell",
+			tag: {
+				Fluid: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			}
+		},
+		count: 4
 	}]
 }

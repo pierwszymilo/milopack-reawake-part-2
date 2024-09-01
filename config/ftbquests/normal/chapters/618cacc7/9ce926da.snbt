@@ -12,5 +12,10 @@
 		items: [{
 			item: "gregtechmod:teblock 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "3d7e0b6a",
+		type: "item",
+		item: "ic2:crafting 1 2"
 	}]
 }

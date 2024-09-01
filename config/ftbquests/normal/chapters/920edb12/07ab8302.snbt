@@ -5,16 +5,16 @@
 		uid: "3f790858",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTin",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any ingotTin"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "ingotTin"
 				}
 			}
 		}]

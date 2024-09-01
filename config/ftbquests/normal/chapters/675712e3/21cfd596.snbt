@@ -23,8 +23,8 @@
 		items: [{
 			id: "immersiverailroading:item_plate",
 			tag: {
-				plate: 2,
-				gauge: 1.435d
+				gauge: 1.435d,
+				plate: 2
 			}
 		}],
 		count: 9L
@@ -35,10 +35,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 0,
-				raw_cast: 0b,
 				defID: "rolling_stock/freight/70t_hopper_slsf.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 0,
+				raw_cast: 0b
 			}
 		}]
 	},
@@ -48,10 +48,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 3,
-				raw_cast: 0b,
 				defID: "rolling_stock/freight/70t_hopper_slsf.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 3,
+				raw_cast: 0b
 			}
 		}],
 		count: 4L
@@ -62,10 +62,10 @@
 		items: [{
 			id: "immersiverailroading:item_rolling_stock_component",
 			tag: {
-				componentType: 4,
-				raw_cast: 0b,
 				defID: "rolling_stock/freight/70t_hopper_slsf.json",
-				gauge: 1.435d
+				gauge: 1.435d,
+				componentType: 4,
+				raw_cast: 0b
 			}
 		}],
 		count: 2L

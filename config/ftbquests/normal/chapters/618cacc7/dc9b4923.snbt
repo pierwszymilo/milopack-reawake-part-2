@@ -10,5 +10,11 @@
 		items: [{
 			item: "ic2:te 1 43"
 		}]
+	}],
+	rewards: [{
+		uid: "8223c6a4",
+		type: "item",
+		item: "minecraft:glowstone_dust",
+		count: 16
 	}]
 }

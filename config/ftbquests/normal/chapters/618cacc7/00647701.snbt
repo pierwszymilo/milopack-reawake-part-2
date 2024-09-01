@@ -9,5 +9,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f983c496",
+		type: "item",
+		item: "ic2:plate 1 3",
+		count: 2
 	}]
 }

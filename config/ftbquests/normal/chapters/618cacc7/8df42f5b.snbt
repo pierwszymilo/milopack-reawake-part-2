@@ -10,5 +10,11 @@
 		items: [{
 			item: "ic2:te 1 55"
 		}]
+	}],
+	rewards: [{
+		uid: "02c324aa",
+		type: "item",
+		item: "libvulpes:productrod 1 1",
+		count: 8
 	}]
 }

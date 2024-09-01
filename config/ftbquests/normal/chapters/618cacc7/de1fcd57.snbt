@@ -11,5 +11,11 @@
 		items: [{
 			item: "gregtechmod:teblock 1 19"
 		}]
+	}],
+	rewards: [{
+		uid: "df607b9c",
+		type: "item",
+		item: "gregtechmod:ingot_steel",
+		count: 8
 	}]
 }

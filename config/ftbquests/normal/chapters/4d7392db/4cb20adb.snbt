@@ -11,8 +11,8 @@
 			id: "thaumcraft:crystal_essence",
 			tag: {
 				Aspects: [{
-					key: "motus",
-					amount: 1
+					amount: 1,
+					key: "motus"
 				}]
 			}
 		}]

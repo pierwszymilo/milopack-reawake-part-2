@@ -9,5 +9,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a91f4dfe",
+		type: "item",
+		item: "minecraft:log",
+		count: 8
 	}]
 }

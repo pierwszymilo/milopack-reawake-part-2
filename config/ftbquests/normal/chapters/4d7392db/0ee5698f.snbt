@@ -8,8 +8,8 @@
 			id: "thaumcraft:crystal_essence",
 			tag: {
 				Aspects: [{
-					key: "aqua",
-					amount: 1
+					amount: 1,
+					key: "aqua"
 				}]
 			}
 		}]

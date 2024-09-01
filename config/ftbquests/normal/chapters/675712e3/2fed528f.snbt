@@ -1,0 +1,28 @@
+{
+	title: "Your first vehicle",
+	x: 8.5d,
+	y: 1.5d,
+	description: "Checking the recipe in JEI will show you an offroader but you can make whichever you want",
+	text: [
+		""
+	],
+	dependencies: [
+		"a248e75d"
+	],
+	tasks: [{
+		uid: "d354bba6",
+		type: "item",
+		items: [{
+			id: "vehicle:vehicle_crate",
+			tag: {
+				BlockEntityTag: {
+					engineTier: 0,
+					wheelType: 0,
+					vehicle: "vehicle:off_roader"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "Damn, no patina?",
-	x: -4.0d,
-	y: 5.5d,
+	x: -2.5d,
+	y: 6.0d,
 	description: "You just realized, that the copper ores you have mined had no patina on themselves.",
 	text: [
 		"[",
@@ -10,25 +10,13 @@
 		"~ Wikipedia"
 	],
 	dependencies: [
-		"beaffd87"
+		"37163e16"
 	],
 	tasks: [{
-		uid: "d2c570e5",
+		uid: "c0cffdd7",
 		type: "item",
-		icon: "ic2:dust 1 4",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any dustCopper"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustCopper"
-				}
-			}
+			item: "ic2:ingot 1 2"
 		}]
 	}],
 	rewards: [{

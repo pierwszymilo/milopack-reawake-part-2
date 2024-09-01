@@ -9,10 +9,22 @@
 		type: "item",
 		items: [{
 			id: "ic2:te",
-			Damage: 74s,
-			tag: {}
+			tag: {},
+			Damage: 74s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8e34a4e6",
+		type: "item",
+		item: "gregtechmod:cell_sulfuric_acid",
+		count: 4
+	},
+	{
+		uid: "5d46eff3",
+		type: "item",
+		item: "gregtechmod:dust_lead",
+		count: 4
 	}]
 }

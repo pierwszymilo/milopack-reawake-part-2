@@ -10,5 +10,11 @@
 		items: [{
 			item: "ic2:te 1 42"
 		}]
+	}],
+	rewards: [{
+		uid: "27657fac",
+		type: "item",
+		item: "minecraft:bucket",
+		count: 2
 	}]
 }

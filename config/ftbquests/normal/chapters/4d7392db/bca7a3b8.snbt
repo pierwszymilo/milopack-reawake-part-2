@@ -10,16 +10,16 @@
 		type: "item",
 		title: "Alchemical Brass or Chemical Brass",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotBrass",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any ingotBrass"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "ingotBrass"
 				}
 			}
 		}]

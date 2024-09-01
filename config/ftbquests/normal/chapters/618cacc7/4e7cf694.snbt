@@ -14,5 +14,11 @@
 				insulation: 0b
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "d37990b3",
+		type: "item",
+		item: "ic2:plate 1 1",
+		count: 2
 	}]
 }

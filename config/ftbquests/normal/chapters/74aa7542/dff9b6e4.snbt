@@ -1,6 +1,6 @@
 {
 	title: "Serious traveling",
-	x: -1.0d,
+	x: 0.5d,
 	y: 7.5d,
 	description: "Wheel with it (*steer wheel)",
 	text: [

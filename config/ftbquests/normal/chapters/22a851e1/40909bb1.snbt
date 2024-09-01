@@ -16,6 +16,34 @@
 		items: [{
 			id: "tconstruct:shovel",
 			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 659,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 659,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"aoe",
+						"tool"
+					]
+				},
+				leveling: {
+					level: 0,
+					check: 0b,
+					exp: 0
+				},
 				TinkerData: {
 					Materials: [
 						"steel",
@@ -24,29 +52,6 @@
 					],
 					Modifiers: [
 						"leveling_mod"
-					]
-				},
-				Stats: {
-					Durability: 659,
-					HarvestLevel: 3,
-					Attack: 6.0f,
-					MiningSpeed: 7.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				StatsOriginal: {
-					Durability: 659,
-					HarvestLevel: 3,
-					Attack: 6.0f,
-					MiningSpeed: 7.0f,
-					AttackSpeedMultiplier: 1.0f,
-					FreeModifiers: 3
-				},
-				Special: {
-					Categories: [
-						"harvest",
-						"aoe",
-						"tool"
 					]
 				},
 				Modifiers: [{
@@ -68,12 +73,7 @@
 					"stiff",
 					"sharp",
 					"leveling_mod"
-				],
-				leveling: {
-					level: 0,
-					exp: 0,
-					check: 0b
-				}
+				]
 			}
 		}],
 		ignore_damage: true,

@@ -17,9 +17,9 @@
 			id: "ironbackpacks:backpack",
 			tag: {
 				packInfo: {
+					upgrade: [],
 					type: "ironbackpacks:basic",
-					spec: "NONE",
-					upgrade: []
+					spec: "NONE"
 				}
 			}
 		}],

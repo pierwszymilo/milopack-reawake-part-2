@@ -1,4 +1,5 @@
 {
+	title: "Brass ingot",
 	x: 9.5d,
 	y: 4.0d,
 	dependencies: [
@@ -7,8 +8,20 @@
 	tasks: [{
 		uid: "3a86bcc8",
 		type: "item",
+		icon: "thaumcraft:ingot 1 2",
 		items: [{
-			item: "thaumcraft:ingot 1 2"
+			ForgeCaps: {
+				Parent: {
+					data: "ingotBrass",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBrass"
+				}
+			}
 		}]
 	}]
 }

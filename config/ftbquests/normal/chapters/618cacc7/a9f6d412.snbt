@@ -10,5 +10,16 @@
 		items: [{
 			item: "ic2:te 1 44"
 		}]
+	}],
+	rewards: [{
+		uid: "3ce1bea4",
+		type: "item",
+		item: "ic2:resource 1 12"
+	},
+	{
+		uid: "a21f4907",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 6
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	title: "Hammering time",
-	x: -1.5d,
+	x: -2.5d,
 	y: 3.0d,
 	description: "In near future the possibility to make plates will be crucial",
 	text: [
@@ -13,16 +13,16 @@
 		uid: "620531b3",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolHardHammer",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolHardHammer"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftingToolHardHammer"
 				}
 			}
 		}],

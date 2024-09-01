@@ -8,16 +8,16 @@
 		uid: "31f76265",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustEmerald",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustEmerald"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustEmerald"
 				}
 			}
 		}]

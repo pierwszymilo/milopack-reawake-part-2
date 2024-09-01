@@ -8,16 +8,16 @@
 		uid: "fc8e6fc9",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockCoil",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockCoil"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "blockCoil"
 				}
 			}
 		}],

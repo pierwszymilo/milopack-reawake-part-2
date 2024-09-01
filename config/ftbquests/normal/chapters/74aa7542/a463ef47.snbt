@@ -1,31 +1,19 @@
 {
 	title: "Tinny tin",
-	x: -4.0d,
+	x: -2.5d,
 	y: 4.5d,
 	description: "A masterful joke.",
 	text: [
 		"The way of manual grinding is painful not only for your weak scientist hands but also for your mentality. It's so brutal, the loses are incredibly awful."
 	],
 	dependencies: [
-		"beaffd87"
+		"37163e16"
 	],
 	tasks: [{
-		uid: "803675bb",
+		uid: "8bee6ca2",
 		type: "item",
-		icon: "ic2:dust 1 17",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any dustTin"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustTin"
-				}
-			}
+			item: "ic2:ingot 1 6"
 		}]
 	}],
 	rewards: [{

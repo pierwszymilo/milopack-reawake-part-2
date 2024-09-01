@@ -1,7 +1,7 @@
 {
 	title: "GOD BLESS CRAFTING STATION",
-	x: 4.0d,
-	y: -0.5d,
+	x: 0.0d,
+	y: 3.5d,
 	shape: "gear",
 	description: "HELL YEAH!",
 	text: [
@@ -19,7 +19,8 @@
 		type: "item",
 		items: [{
 			item: "tconstruct:tooltables"
-		}]
+		}],
+		consume_items: false
 	}],
 	rewards: [{
 		uid: "bc00b07e",

@@ -10,8 +10,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:chainsaw",
-			Damage: 26s,
-			tag: {}
+			tag: {},
+			Damage: 26s
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

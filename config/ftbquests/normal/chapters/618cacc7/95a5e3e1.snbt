@@ -13,5 +13,11 @@
 		items: [{
 			item: "gregtechmod:teblock 1 21"
 		}]
+	}],
+	rewards: [{
+		uid: "2ee631a5",
+		type: "item",
+		item: "ic2:fluid_cell",
+		count: 16
 	}]
 }
