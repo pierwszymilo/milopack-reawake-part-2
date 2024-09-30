@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMultiplayer
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Official Server Status: {"placeholder":"serverstatus","values":{"ip":"thecouncil.duckdns.org:25565"}}%n%Players: [0{"placeholder":"serverplayercount","values":{"ip":"thecouncil.duckdns.org:25565"}}]%n%Ping: [{"placeholder":"serverping","values":{"ip":"thecouncil.duckdns.org:25565"}}ms]
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:346948
+  x = -200
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3d3d1b62-70c8-4c66-ae4f-cd9b803a87bf1727174637131
+  y = 0
+  alignment = right
+  height = 40
+}
+

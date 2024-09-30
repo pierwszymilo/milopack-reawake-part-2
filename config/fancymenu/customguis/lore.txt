@@ -1,0 +1,3 @@
+identifier = lore
+title = The Lore
+allowesc = true

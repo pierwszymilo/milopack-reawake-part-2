@@ -14,17 +14,107 @@ customization {
 }
 
 customization {
-  keepaspectratio = false
+  keepaspectratio = true
   action = backgroundoptions
 }
 
 customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = -1
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-right
+  x = -848
   action = movebutton
-  y = 24
+  y = -68
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -860
+  action = movebutton
+  y = -6
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-right
+  x = -638
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-right
+  x = -204
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-right
+  x = -728
+  action = movebutton
+  y = -56
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-right
+  x = -586
+  action = movebutton
+  y = -75
 }
 
 customization {
@@ -57,23 +147,23 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
   width = 169
   action = deep_customization_element:title_screen_branding
   actionid = edf63f07-de45-4bae-a62a-332ed02b160a1724720367355
-  y = 277
+  y = 418
   height = 60
 }
 
 customization {
   orientation = top-left
-  hidden = false
-  x = 411
+  hidden = true
+  x = 918
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 66b3d937-035b-4c2a-ad21-3f75361cdb5e1724720367355
-  y = 319
+  y = 439
   height = 9
 }
 
@@ -113,30 +203,200 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/header.png
   orientation = top-centered
-  x = -174
-  width = 348
-  actionid = 169e012d-c28e-4f21-aa95-1bfb9cff74f41724721424447
-  action = addtexture
-  y = 14
-  height = 85
-}
-
-customization {
-  orientation = element
   basecolor = #ffff00
   shadow = true
   splashfilepath = config/fancymenu/splash.txt
-  rotation = -20.0
+  rotation = 0.0
   scale = 1.25
   refresh = false
   bouncing = true
   vanilla-like = false
-  orientation_element = 169e012d-c28e-4f21-aa95-1bfb9cff74f41724721424447
-  x = 243
+  x = -129
   actionid = 69288cb5-4ade-4fcc-865e-f7c2eb86abed1724722314792
   action = addsplash
-  y = 68
+  y = 32
+}
+
+customization {
+  path = config/fancymenu/subtitle.gif
+  orientation = element
+  orientation_element = a43e1f72-f2d0-45f0-92a2-fae5f0e744a21727129519388
+  x = 91
+  width = 96
+  actionid = c849de27-0e75-450a-9026-fce4207adc031727126733437
+  action = addtexture
+  y = 56
+  height = 32
+}
+
+customization {
+  path = config/fancymenu/milo.png
+  orientation = bottom-left
+  x = 21
+  width = 86
+  actionid = 31710096-c8a4-4e9b-8caf-43f01b1865e71727128825717
+  action = addtexture
+  y = -92
+  height = 85
+}
+
+customization {
+  orientation = top-right
+  enable_scrolling = true
+  shadow = true
+  scale = 0.75
+  source = Made by Dr Milo with help of MKLK%n%Special thanks to Maks, Agu, Miki and Velo%n%Minecraft version: {"placeholder":"mcversion"}%n%Total mods installed: {"placeholder":"totalmods"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -251
+  width = 251
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 578a9ff0-c740-49b4-81ee-8752fa19a0a21727128891069
+  y = 0
+  alignment = right
+  height = 40
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Date: {"placeholder":"realtimeday"}.{"placeholder":"realtimemonth"}.{"placeholder":"realtimeyear"}%n%Time: {"placeholder":"realtimehour"}:{"placeholder":"realtimeminute"}:{"placeholder":"realtimesecond"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = 31710096-c8a4-4e9b-8caf-43f01b1865e71727128825717
+  x = 98
+  width = 244
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 729d9001-d57a-4768-8684-129ebd8ee00c1727129258020
+  y = 52
+  alignment = left
+  height = 40
+}
+
+customization {
+  path = config/fancymenu/header.png
+  orientation = bottom-right
+  x = -200
+  width = 199
+  actionid = a43e1f72-f2d0-45f0-92a2-fae5f0e744a21727129519388
+  action = addtexture
+  y = -106
+  height = 56
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Quit
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMainMenu:button_compatibility_id:mc_titlescreen_quit_button%btnaction_splitter_fm%
+  x = -90
+  width = 87
+  action = addbutton
+  actionid = afeb04a3-6c80-4cf0-a32e-07195687e14c1727126434536
+  y = -22
+  label = Give up
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Mods
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMainMenu:button_compatibility_id:forge_titlescreen_mods_button%btnaction_splitter_fm%
+  x = -180
+  width = 177
+  action = addbutton
+  actionid = 776809ec-66e0-4e70-88b7-81ea6ee281cf1727126427470
+  y = -46
+  label = Modlist
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Options...
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMainMenu:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
+  x = -180
+  width = 177
+  action = addbutton
+  actionid = 9f0dae8e-1909-48c4-ae13-96cd82d45e421727126423136
+  y = -71
+  label = Config
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Multiplayer
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMainMenu:button_compatibility_id:mc_titlescreen_multiplayer_button%btnaction_splitter_fm%
+  x = -179
+  width = 176
+  action = addbutton
+  actionid = c9082fad-02ed-4f58-a360-1b55227b4ccc1727126418770
+  y = -96
+  label = Join your Lab
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Singleplayer
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMainMenu:button_compatibility_id:mc_titlescreen_singleplayer_button%btnaction_splitter_fm%
+  x = -180
+  width = 177
+  action = addbutton
+  actionid = 4adca833-e5f8-4f39-8e5c-84318d34cff71727126372837
+  y = -121
+  label = Play alone
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 0.75
+  source = Menu music by Kairiki Bear
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 7
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 083b99c3-0031-44aa-875e-3ff7590262841727132061858
+  y = 8
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  hoverlabel = Important
+  restartbackgroundanimations = true
+  buttonaction = opengui;lore%btnaction_splitter_fm%
+  x = -180
+  width = 87
+  action = addbutton
+  actionid = 93de149a-8680-447a-8963-603dcab729f41727176013890
+  y = -22
+  label = Message
+  height = 20
 }
 

@@ -1,0 +1,54 @@
+type = menu
+
+customization-meta {
+  identifier = lore
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/dirt.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -50
+  width = 100
+  action = addbutton
+  actionid = a1eeb702-ae2a-4190-bbc7-f89d0fc3e53e1727175240767
+  y = -24
+  label = Back
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Welcome {"placeholder":"playername"}! This is a message from The Council of Union.%n%There is something you need to know. Our civilization didn't develop in the same times you grew up. %n%In fact, the people who started the technological revolution were from the future. %n%They went back in time to prevent a catastrophe from happening.%n%Now as the timeline has changed dramatically, it is no longer going to happen.%n%We might say we are saved, but...%n%The civilization is not living in the right era.%n%You will wake up soon in the times we desired to live in.%n%Your job is to create everything we had from the start in the new, better times.%n%Whole knowledge of our civilization is in your disposal,%n%Good Luck.
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -572
+  width = 1145
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 63c668f6-99f6-4491-8857-dcc5ee269d591727175284833
+  y = -59
+  alignment = centered
+  base_color = 0dd96c
+  height = 118
+}
+
