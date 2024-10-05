@@ -1,3 +1,4 @@
+![image](https://cdn.technicpack.net/platform2/pack-logos/1984723.png?1728163036)
 # Welcome to Milopack Re;awake part 2!
 
 Tech focused 1.12.2 modpack made mainly for SMP's. <BR>
