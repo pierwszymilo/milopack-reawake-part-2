@@ -21,11 +21,11 @@
 		type: "item",
 		item: {
 			id: "ic2:cable",
+			Damage: 4s,
 			tag: {
 				type: 4b,
 				insulation: 1b
-			},
-			Damage: 4s
+			}
 		},
 		count: 4
 	}]

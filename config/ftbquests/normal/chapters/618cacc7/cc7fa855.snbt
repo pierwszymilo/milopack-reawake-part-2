@@ -9,18 +9,17 @@
 		type: "item",
 		items: [{
 			id: "ic2:te",
-			tag: {},
-			Damage: 72s
-		}],
-		ignore_damage: true
+			Damage: 72s,
+			tag: {}
+		}]
 	}],
 	rewards: [{
 		uid: "d3c185a6",
 		type: "item",
 		item: {
 			id: "ic2:charging_re_battery",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}
 	}]
 }

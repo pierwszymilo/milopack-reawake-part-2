@@ -10,16 +10,16 @@
 		type: "item",
 		icon: "thaumcraft:ingot 1 2",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "ingotBrass",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any ingotBrass"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBrass"
 				}
 			}
 		}]

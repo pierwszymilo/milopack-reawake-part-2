@@ -14,10 +14,9 @@
 		type: "item",
 		items: [{
 			id: "tconstruct:tooltables",
-			tag: {},
-			Damage: 2s
+			Damage: 2s,
+			tag: {}
 		}],
-		ignore_damage: true,
 		ignore_nbt: 2b
 	}]
 }

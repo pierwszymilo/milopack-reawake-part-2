@@ -10,8 +10,8 @@
 		type: "item",
 		items: [{
 			id: "gregtechmod:saw_advanced",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

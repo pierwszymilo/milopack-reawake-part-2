@@ -16,8 +16,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_helmet",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -27,8 +27,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_chestplate",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -38,8 +38,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_leggings",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,8 +49,8 @@
 		type: "item",
 		items: [{
 			id: "ic2:nano_boots",
-			tag: {},
-			Damage: 26s
+			Damage: 26s,
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -16,11 +16,11 @@
 		type: "item",
 		item: {
 			id: "ic2:cable",
+			Damage: 2s,
 			tag: {
 				type: 2b,
 				insulation: 2b
-			},
-			Damage: 2s
+			}
 		},
 		count: 8
 	}]

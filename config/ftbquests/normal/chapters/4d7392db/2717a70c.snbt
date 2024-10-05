@@ -9,13 +9,13 @@
 		type: "item",
 		items: [{
 			id: "thaumcraft:phial",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 10,
 					key: "alienis"
 				}]
-			},
-			Damage: 1s
+			}
 		}]
 	}]
 }
